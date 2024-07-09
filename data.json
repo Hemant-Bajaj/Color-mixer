@@ -1,0 +1,5194 @@
+[
+  {
+    "Name": "Absolute zero",
+    "Hex (24 bit)": "#0048BA"
+  },
+  {
+    "Name": "Acid green",
+    "Hex (24 bit)": "#B0BF1A"
+  },
+  {
+    "Name": "Aero",
+    "Hex (24 bit)": "#7CB9E8"
+  },
+  {
+    "Name": "Aero blue",
+    "Hex (24 bit)": "#C9FFE5"
+  },
+  {
+    "Name": "African violet",
+    "Hex (24 bit)": "#B284BE"
+  },
+  {
+    "Name": "Air Force blue (RAF)",
+    "Hex (24 bit)": "#5D8AA8"
+  },
+  {
+    "Name": "Air Force blue (USAF)",
+    "Hex (24 bit)": "#00308F"
+  },
+  {
+    "Name": "Air superiority blue",
+    "Hex (24 bit)": "#72A0C1"
+  },
+  {
+    "Name": "Alabama crimson",
+    "Hex (24 bit)": "#AF002A"
+  },
+  {
+    "Name": "Alabaster",
+    "Hex (24 bit)": "#F2F0E6"
+  },
+  {
+    "Name": "Alice blue",
+    "Hex (24 bit)": "#F0F8FF"
+  },
+  {
+    "Name": "Alien Armpit",
+    "Hex (24 bit)": "#84DE02"
+  },
+  {
+    "Name": "Alizarin crimson",
+    "Hex (24 bit)": "#E32636"
+  },
+  {
+    "Name": "Alloy orange",
+    "Hex (24 bit)": "#C46210"
+  },
+  {
+    "Name": "Almond",
+    "Hex (24 bit)": "#EFDECD"
+  },
+  {
+    "Name": "Amaranth",
+    "Hex (24 bit)": "#E52B50"
+  },
+  {
+    "Name": "Amaranth deep purple",
+    "Hex (24 bit)": "#9F2B68"
+  },
+  {
+    "Name": "Amaranth pink",
+    "Hex (24 bit)": "#F19CBB"
+  },
+  {
+    "Name": "Amaranth purple",
+    "Hex (24 bit)": "#AB274F"
+  },
+  {
+    "Name": "Amaranth red",
+    "Hex (24 bit)": "#D3212D"
+  },
+  {
+    "Name": "Amazon",
+    "Hex (24 bit)": "#3B7A57"
+  },
+  {
+    "Name": "Amazonite",
+    "Hex (24 bit)": "#00C4B0"
+  },
+  {
+    "Name": "Amber",
+    "Hex (24 bit)": "#FFBF00"
+  },
+  {
+    "Name": "Amber (SAE/ECE)",
+    "Hex (24 bit)": "#FF7E00"
+  },
+  {
+    "Name": "American rose",
+    "Hex (24 bit)": "#FF033E"
+  },
+  {
+    "Name": "Amethyst",
+    "Hex (24 bit)": "#9966CC"
+  },
+  {
+    "Name": "Android green",
+    "Hex (24 bit)": "#A4C639"
+  },
+  {
+    "Name": "Anti-flash white",
+    "Hex (24 bit)": "#F2F3F4"
+  },
+  {
+    "Name": "Antique brass",
+    "Hex (24 bit)": "#CD9575"
+  },
+  {
+    "Name": "Antique bronze",
+    "Hex (24 bit)": "#665D1E"
+  },
+  {
+    "Name": "Antique fuchsia",
+    "Hex (24 bit)": "#915C83"
+  },
+  {
+    "Name": "Antique ruby",
+    "Hex (24 bit)": "#841B2D"
+  },
+  {
+    "Name": "Antique white",
+    "Hex (24 bit)": "#FAEBD7"
+  },
+  {
+    "Name": "Ao (English)",
+    "Hex (24 bit)": "#008000"
+  },
+  {
+    "Name": "Apple green",
+    "Hex (24 bit)": "#8DB600"
+  },
+  {
+    "Name": "Apricot",
+    "Hex (24 bit)": "#FBCEB1"
+  },
+  {
+    "Name": "Aqua",
+    "Hex (24 bit)": "#00FFFF"
+  },
+  {
+    "Name": "Aquamarine",
+    "Hex (24 bit)": "#7FFFD4"
+  },
+  {
+    "Name": "Arctic lime",
+    "Hex (24 bit)": "#D0FF14"
+  },
+  {
+    "Name": "Army green",
+    "Hex (24 bit)": "#4B5320"
+  },
+  {
+    "Name": "Arsenic",
+    "Hex (24 bit)": "#3B444B"
+  },
+  {
+    "Name": "Artichoke",
+    "Hex (24 bit)": "#8F9779"
+  },
+  {
+    "Name": "Arylide yellow",
+    "Hex (24 bit)": "#E9D66B"
+  },
+  {
+    "Name": "Ash grey",
+    "Hex (24 bit)": "#B2BEB5"
+  },
+  {
+    "Name": "Asparagus",
+    "Hex (24 bit)": "#87A96B"
+  },
+  {
+    "Name": "Atomic tangerine",
+    "Hex (24 bit)": "#FF9966"
+  },
+  {
+    "Name": "Auburn",
+    "Hex (24 bit)": "#A52A2A"
+  },
+  {
+    "Name": "Aureolin",
+    "Hex (24 bit)": "#FDEE00"
+  },
+  {
+    "Name": "AuroMetalSaurus",
+    "Hex (24 bit)": "#6E7F80"
+  },
+  {
+    "Name": "Avocado",
+    "Hex (24 bit)": "#568203"
+  },
+  {
+    "Name": "Awesome",
+    "Hex (24 bit)": "#FF2052"
+  },
+  {
+    "Name": "Aztec Gold",
+    "Hex (24 bit)": "#C39953"
+  },
+  {
+    "Name": "Azure",
+    "Hex (24 bit)": "#007FFF"
+  },
+  {
+    "Name": "Azure (web color)",
+    "Hex (24 bit)": "#F0FFFF"
+  },
+  {
+    "Name": "Azure mist",
+    "Hex (24 bit)": "#F0FFFF"
+  },
+  {
+    "Name": "Azureish white",
+    "Hex (24 bit)": "#DBE9F4"
+  },
+  {
+    "Name": "Baby blue",
+    "Hex (24 bit)": "#89CFF0"
+  },
+  {
+    "Name": "Baby blue eyes",
+    "Hex (24 bit)": "#A1CAF1"
+  },
+  {
+    "Name": "Baby pink",
+    "Hex (24 bit)": "#F4C2C2"
+  },
+  {
+    "Name": "Baby powder",
+    "Hex (24 bit)": "#FEFEFA"
+  },
+  {
+    "Name": "Baker-Miller pink",
+    "Hex (24 bit)": "#FF91AF"
+  },
+  {
+    "Name": "Ball blue",
+    "Hex (24 bit)": "#21ABCD"
+  },
+  {
+    "Name": "Banana Mania",
+    "Hex (24 bit)": "#FAE7B5"
+  },
+  {
+    "Name": "Banana yellow",
+    "Hex (24 bit)": "#FFE135"
+  },
+  {
+    "Name": "Bangladesh green",
+    "Hex (24 bit)": "#006A4E"
+  },
+  {
+    "Name": "Barbie pink",
+    "Hex (24 bit)": "#E0218A"
+  },
+  {
+    "Name": "Barn red",
+    "Hex (24 bit)": "#7C0A02"
+  },
+  {
+    "Name": "Battery Charged Blue",
+    "Hex (24 bit)": "#1DACD6"
+  },
+  {
+    "Name": "Battleship grey",
+    "Hex (24 bit)": "#848482"
+  },
+  {
+    "Name": "Bazaar",
+    "Hex (24 bit)": "#98777B"
+  },
+  {
+    "Name": "Beau blue",
+    "Hex (24 bit)": "#BCD4E6"
+  },
+  {
+    "Name": "Beaver",
+    "Hex (24 bit)": "#9F8170"
+  },
+  {
+    "Name": "Begonia",
+    "Hex (24 bit)": "#FA6E79"
+  },
+  {
+    "Name": "Beige",
+    "Hex (24 bit)": "#F5F5DC"
+  },
+  {
+    "Name": "B'dazzled blue",
+    "Hex (24 bit)": "#2E5894"
+  },
+  {
+    "Name": "Big dip o’ruby",
+    "Hex (24 bit)": "#9C2542"
+  },
+  {
+    "Name": "Big Foot Feet",
+    "Hex (24 bit)": "#E88E5A"
+  },
+  {
+    "Name": "Bisque",
+    "Hex (24 bit)": "#FFE4C4"
+  },
+  {
+    "Name": "Bistre",
+    "Hex (24 bit)": "#3D2B1F"
+  },
+  {
+    "Name": "Bistre brown",
+    "Hex (24 bit)": "#967117"
+  },
+  {
+    "Name": "Bitter lemon",
+    "Hex (24 bit)": "#CAE00D"
+  },
+  {
+    "Name": "Bitter lime",
+    "Hex (24 bit)": "#BFFF00"
+  },
+  {
+    "Name": "Bittersweet",
+    "Hex (24 bit)": "#FE6F5E"
+  },
+  {
+    "Name": "Bittersweet shimmer",
+    "Hex (24 bit)": "#BF4F51"
+  },
+  {
+    "Name": "Black",
+    "Hex (24 bit)": "#000000"
+  },
+  {
+    "Name": "Black bean",
+    "Hex (24 bit)": "#3D0C02"
+  },
+  {
+    "Name": "Black Coral",
+    "Hex (24 bit)": "#54626F"
+  },
+  {
+    "Name": "Black leather jacket",
+    "Hex (24 bit)": "#253529"
+  },
+  {
+    "Name": "Black olive",
+    "Hex (24 bit)": "#3B3C36"
+  },
+  {
+    "Name": "Black Shadows",
+    "Hex (24 bit)": "#BFAFB2"
+  },
+  {
+    "Name": "Blanched almond",
+    "Hex (24 bit)": "#FFEBCD"
+  },
+  {
+    "Name": "Blast-off bronze",
+    "Hex (24 bit)": "#A57164"
+  },
+  {
+    "Name": "Bleu de France",
+    "Hex (24 bit)": "#318CE7"
+  },
+  {
+    "Name": "Blizzard Blue",
+    "Hex (24 bit)": "#ACE5EE"
+  },
+  {
+    "Name": "Blond",
+    "Hex (24 bit)": "#FAF0BE"
+  },
+  {
+    "Name": "Blue",
+    "Hex (24 bit)": "#0000FF"
+  },
+  {
+    "Name": "Blue (Crayola)",
+    "Hex (24 bit)": "#1F75FE"
+  },
+  {
+    "Name": "Blue (Munsell)",
+    "Hex (24 bit)": "#0093AF"
+  },
+  {
+    "Name": "Blue (NCS)",
+    "Hex (24 bit)": "#0087BD"
+  },
+  {
+    "Name": "Blue (Pantone)",
+    "Hex (24 bit)": "#0018A8"
+  },
+  {
+    "Name": "Blue (pigment)",
+    "Hex (24 bit)": "#333399"
+  },
+  {
+    "Name": "Blue (RYB)",
+    "Hex (24 bit)": "#0247FE"
+  },
+  {
+    "Name": "Blue Bell",
+    "Hex (24 bit)": "#A2A2D0"
+  },
+  {
+    "Name": "Blue Bolt",
+    "Hex (24 bit)": "#00B9FB"
+  },
+  {
+    "Name": "Blue-gray",
+    "Hex (24 bit)": "#6699CC"
+  },
+  {
+    "Name": "Blue-green",
+    "Hex (24 bit)": "#0D98BA"
+  },
+  {
+    "Name": "Blue Jeans",
+    "Hex (24 bit)": "#5DADEC"
+  },
+  {
+    "Name": "Blue Lagoon",
+    "Hex (24 bit)": "#ACE5EE"
+  },
+  {
+    "Name": "Blue-magenta violet",
+    "Hex (24 bit)": "#553592"
+  },
+  {
+    "Name": "Blue sapphire",
+    "Hex (24 bit)": "#126180"
+  },
+  {
+    "Name": "Blue-violet",
+    "Hex (24 bit)": "#8A2BE2"
+  },
+  {
+    "Name": "Blue yonder",
+    "Hex (24 bit)": "#5072A7"
+  },
+  {
+    "Name": "Blueberry",
+    "Hex (24 bit)": "#4F86F7"
+  },
+  {
+    "Name": "Bluebonnet",
+    "Hex (24 bit)": "#1C1CF0"
+  },
+  {
+    "Name": "Blush",
+    "Hex (24 bit)": "#DE5D83"
+  },
+  {
+    "Name": "Bole",
+    "Hex (24 bit)": "#79443B"
+  },
+  {
+    "Name": "Bondi blue",
+    "Hex (24 bit)": "#0095B6"
+  },
+  {
+    "Name": "Bone",
+    "Hex (24 bit)": "#E3DAC9"
+  },
+  {
+    "Name": "Booger Buster",
+    "Hex (24 bit)": "#DDE26A"
+  },
+  {
+    "Name": "Boston University Red",
+    "Hex (24 bit)": "#CC0000"
+  },
+  {
+    "Name": "Bottle green",
+    "Hex (24 bit)": "#006A4E"
+  },
+  {
+    "Name": "Boysenberry",
+    "Hex (24 bit)": "#873260"
+  },
+  {
+    "Name": "Brandeis blue",
+    "Hex (24 bit)": "#0070FF"
+  },
+  {
+    "Name": "Brass",
+    "Hex (24 bit)": "#B5A642"
+  },
+  {
+    "Name": "Brick red",
+    "Hex (24 bit)": "#CB4154"
+  },
+  {
+    "Name": "Bright cerulean",
+    "Hex (24 bit)": "#1DACD6"
+  },
+  {
+    "Name": "Bright green",
+    "Hex (24 bit)": "#66FF00"
+  },
+  {
+    "Name": "Bright lavender",
+    "Hex (24 bit)": "#BF94E4"
+  },
+  {
+    "Name": "Bright lilac",
+    "Hex (24 bit)": "#D891EF"
+  },
+  {
+    "Name": "Bright maroon",
+    "Hex (24 bit)": "#C32148"
+  },
+  {
+    "Name": "Bright navy blue",
+    "Hex (24 bit)": "#1974D2"
+  },
+  {
+    "Name": "Bright pink",
+    "Hex (24 bit)": "#FF007F"
+  },
+  {
+    "Name": "Bright turquoise",
+    "Hex (24 bit)": "#08E8DE"
+  },
+  {
+    "Name": "Bright ube",
+    "Hex (24 bit)": "#D19FE8"
+  },
+  {
+    "Name": "Bright Yellow (Crayola)",
+    "Hex (24 bit)": "#FFAA1D"
+  },
+  {
+    "Name": "Brilliant azure",
+    "Hex (24 bit)": "#3399FF"
+  },
+  {
+    "Name": "Brilliant lavender",
+    "Hex (24 bit)": "#F4BBFF"
+  },
+  {
+    "Name": "Brilliant rose",
+    "Hex (24 bit)": "#FF55A3"
+  },
+  {
+    "Name": "Brink pink",
+    "Hex (24 bit)": "#FB607F"
+  },
+  {
+    "Name": "British racing green",
+    "Hex (24 bit)": "#004225"
+  },
+  {
+    "Name": "Bronze",
+    "Hex (24 bit)": "#CD7F32"
+  },
+  {
+    "Name": "Bronze Yellow",
+    "Hex (24 bit)": "#737000"
+  },
+  {
+    "Name": "Brown (traditional)",
+    "Hex (24 bit)": "#964B00"
+  },
+  {
+    "Name": "Brown (web)",
+    "Hex (24 bit)": "#A52A2A"
+  },
+  {
+    "Name": "Brown-nose",
+    "Hex (24 bit)": "#6B4423"
+  },
+  {
+    "Name": "Brown Sugar",
+    "Hex (24 bit)": "#AF6E4D"
+  },
+  {
+    "Name": "Brown Yellow",
+    "Hex (24 bit)": "#cc9966"
+  },
+  {
+    "Name": "Brunswick green",
+    "Hex (24 bit)": "#1B4D3E"
+  },
+  {
+    "Name": "Bubble gum",
+    "Hex (24 bit)": "#FFC1CC"
+  },
+  {
+    "Name": "Bubbles",
+    "Hex (24 bit)": "#E7FEFF"
+  },
+  {
+    "Name": "Bud green",
+    "Hex (24 bit)": "#7BB661"
+  },
+  {
+    "Name": "Buff",
+    "Hex (24 bit)": "#F0DC82"
+  },
+  {
+    "Name": "Bulgarian rose",
+    "Hex (24 bit)": "#480607"
+  },
+  {
+    "Name": "Burgundy",
+    "Hex (24 bit)": "#800020"
+  },
+  {
+    "Name": "Burlywood",
+    "Hex (24 bit)": "#DEB887"
+  },
+  {
+    "Name": "Burnished Brown",
+    "Hex (24 bit)": "#A17A74"
+  },
+  {
+    "Name": "Burnt orange",
+    "Hex (24 bit)": "#CC5500"
+  },
+  {
+    "Name": "Burnt sienna",
+    "Hex (24 bit)": "#E97451"
+  },
+  {
+    "Name": "Burnt umber",
+    "Hex (24 bit)": "#8A3324"
+  },
+  {
+    "Name": "Byzantine",
+    "Hex (24 bit)": "#BD33A4"
+  },
+  {
+    "Name": "Byzantium",
+    "Hex (24 bit)": "#702963"
+  },
+  {
+    "Name": "Cadet",
+    "Hex (24 bit)": "#536872"
+  },
+  {
+    "Name": "Cadet blue",
+    "Hex (24 bit)": "#5F9EA0"
+  },
+  {
+    "Name": "Cadet grey",
+    "Hex (24 bit)": "#91A3B0"
+  },
+  {
+    "Name": "Cadmium green",
+    "Hex (24 bit)": "#006B3C"
+  },
+  {
+    "Name": "Cadmium orange",
+    "Hex (24 bit)": "#ED872D"
+  },
+  {
+    "Name": "Cadmium red",
+    "Hex (24 bit)": "#E30022"
+  },
+  {
+    "Name": "Cadmium yellow",
+    "Hex (24 bit)": "#FFF600"
+  },
+  {
+    "Name": "Café au lait",
+    "Hex (24 bit)": "#A67B5B"
+  },
+  {
+    "Name": "Café noir",
+    "Hex (24 bit)": "#4B3621"
+  },
+  {
+    "Name": "Cal Poly Pomona green",
+    "Hex (24 bit)": "#1E4D2B"
+  },
+  {
+    "Name": "Cambridge Blue",
+    "Hex (24 bit)": "#A3C1AD"
+  },
+  {
+    "Name": "Camel",
+    "Hex (24 bit)": "#C19A6B"
+  },
+  {
+    "Name": "Cameo pink",
+    "Hex (24 bit)": "#EFBBCC"
+  },
+  {
+    "Name": "Camouflage green",
+    "Hex (24 bit)": "#78866B"
+  },
+  {
+    "Name": "Canary",
+    "Hex (24 bit)": "#FFFF99"
+  },
+  {
+    "Name": "Canary yellow",
+    "Hex (24 bit)": "#FFEF00"
+  },
+  {
+    "Name": "Candy apple red",
+    "Hex (24 bit)": "#FF0800"
+  },
+  {
+    "Name": "Candy pink",
+    "Hex (24 bit)": "#E4717A"
+  },
+  {
+    "Name": "Capri",
+    "Hex (24 bit)": "#00BFFF"
+  },
+  {
+    "Name": "Caput mortuum",
+    "Hex (24 bit)": "#592720"
+  },
+  {
+    "Name": "Cardinal",
+    "Hex (24 bit)": "#C41E3A"
+  },
+  {
+    "Name": "Caribbean green",
+    "Hex (24 bit)": "#00CC99"
+  },
+  {
+    "Name": "Carmine",
+    "Hex (24 bit)": "#960018"
+  },
+  {
+    "Name": "Carmine (M&P)",
+    "Hex (24 bit)": "#D70040"
+  },
+  {
+    "Name": "Carmine pink",
+    "Hex (24 bit)": "#EB4C42"
+  },
+  {
+    "Name": "Carmine red",
+    "Hex (24 bit)": "#FF0038"
+  },
+  {
+    "Name": "Carnation pink",
+    "Hex (24 bit)": "#FFA6C9"
+  },
+  {
+    "Name": "Carnelian",
+    "Hex (24 bit)": "#B31B1B"
+  },
+  {
+    "Name": "Carolina blue",
+    "Hex (24 bit)": "#56A0D3"
+  },
+  {
+    "Name": "Carrot orange",
+    "Hex (24 bit)": "#ED9121"
+  },
+  {
+    "Name": "Castleton green",
+    "Hex (24 bit)": "#00563F"
+  },
+  {
+    "Name": "Catalina blue",
+    "Hex (24 bit)": "#062A78"
+  },
+  {
+    "Name": "Catawba",
+    "Hex (24 bit)": "#703642"
+  },
+  {
+    "Name": "Cedar Chest",
+    "Hex (24 bit)": "#C95A49"
+  },
+  {
+    "Name": "Ceil",
+    "Hex (24 bit)": "#92A1CF"
+  },
+  {
+    "Name": "Celadon",
+    "Hex (24 bit)": "#ACE1AF"
+  },
+  {
+    "Name": "Celadon blue",
+    "Hex (24 bit)": "#007BA7"
+  },
+  {
+    "Name": "Celadon green",
+    "Hex (24 bit)": "#2F847C"
+  },
+  {
+    "Name": "Celeste",
+    "Hex (24 bit)": "#B2FFFF"
+  },
+  {
+    "Name": "Celestial blue",
+    "Hex (24 bit)": "#4997D0"
+  },
+  {
+    "Name": "Cerise",
+    "Hex (24 bit)": "#DE3163"
+  },
+  {
+    "Name": "Cerise pink",
+    "Hex (24 bit)": "#EC3B83"
+  },
+  {
+    "Name": "Cerulean",
+    "Hex (24 bit)": "#007BA7"
+  },
+  {
+    "Name": "Cerulean blue",
+    "Hex (24 bit)": "#2A52BE"
+  },
+  {
+    "Name": "Cerulean frost",
+    "Hex (24 bit)": "#6D9BC3"
+  },
+  {
+    "Name": "CG Blue",
+    "Hex (24 bit)": "#007AA5"
+  },
+  {
+    "Name": "CG Red",
+    "Hex (24 bit)": "#E03C31"
+  },
+  {
+    "Name": "Chamoisee",
+    "Hex (24 bit)": "#A0785A"
+  },
+  {
+    "Name": "Champagne",
+    "Hex (24 bit)": "#F7E7CE"
+  },
+  {
+    "Name": "Champagne pink",
+    "Hex (24 bit)": "#F1DDCF"
+  },
+  {
+    "Name": "Charcoal",
+    "Hex (24 bit)": "#36454F"
+  },
+  {
+    "Name": "Charleston green",
+    "Hex (24 bit)": "#232B2B"
+  },
+  {
+    "Name": "Charm pink",
+    "Hex (24 bit)": "#E68FAC"
+  },
+  {
+    "Name": "Chartreuse (traditional)",
+    "Hex (24 bit)": "#DFFF00"
+  },
+  {
+    "Name": "Chartreuse (web)",
+    "Hex (24 bit)": "#7FFF00"
+  },
+  {
+    "Name": "Cherry",
+    "Hex (24 bit)": "#DE3163"
+  },
+  {
+    "Name": "Cherry blossom pink",
+    "Hex (24 bit)": "#FFB7C5"
+  },
+  {
+    "Name": "Chestnut",
+    "Hex (24 bit)": "#954535"
+  },
+  {
+    "Name": "China pink",
+    "Hex (24 bit)": "#DE6FA1"
+  },
+  {
+    "Name": "China rose",
+    "Hex (24 bit)": "#A8516E"
+  },
+  {
+    "Name": "Chinese red",
+    "Hex (24 bit)": "#AA381E"
+  },
+  {
+    "Name": "Chinese violet",
+    "Hex (24 bit)": "#856088"
+  },
+  {
+    "Name": "Chlorophyll green",
+    "Hex (24 bit)": "#4AFF00"
+  },
+  {
+    "Name": "Chocolate (traditional)",
+    "Hex (24 bit)": "#7B3F00"
+  },
+  {
+    "Name": "Chocolate (web)",
+    "Hex (24 bit)": "#D2691E"
+  },
+  {
+    "Name": "Chrome yellow",
+    "Hex (24 bit)": "#FFA700"
+  },
+  {
+    "Name": "Cinereous",
+    "Hex (24 bit)": "#98817B"
+  },
+  {
+    "Name": "Cinnabar",
+    "Hex (24 bit)": "#E34234"
+  },
+  {
+    "Name": "Cinnamon[citation needed]",
+    "Hex (24 bit)": "#D2691E"
+  },
+  {
+    "Name": "Cinnamon Satin",
+    "Hex (24 bit)": "#CD607E"
+  },
+  {
+    "Name": "Citrine",
+    "Hex (24 bit)": "#E4D00A"
+  },
+  {
+    "Name": "Citron",
+    "Hex (24 bit)": "#9FA91F"
+  },
+  {
+    "Name": "Claret",
+    "Hex (24 bit)": "#7F1734"
+  },
+  {
+    "Name": "Classic rose",
+    "Hex (24 bit)": "#FBCCE7"
+  },
+  {
+    "Name": "Cobalt Blue",
+    "Hex (24 bit)": "#0047AB"
+  },
+  {
+    "Name": "Cocoa brown",
+    "Hex (24 bit)": "#D2691E"
+  },
+  {
+    "Name": "Coconut",
+    "Hex (24 bit)": "#965A3E"
+  },
+  {
+    "Name": "Coffee",
+    "Hex (24 bit)": "#6F4E37"
+  },
+  {
+    "Name": "Columbia Blue",
+    "Hex (24 bit)": "#C4D8E2"
+  },
+  {
+    "Name": "Congo pink",
+    "Hex (24 bit)": "#F88379"
+  },
+  {
+    "Name": "Cool Black",
+    "Hex (24 bit)": "#002E63"
+  },
+  {
+    "Name": "Cool grey",
+    "Hex (24 bit)": "#8C92AC"
+  },
+  {
+    "Name": "Copper",
+    "Hex (24 bit)": "#B87333"
+  },
+  {
+    "Name": "Copper (Crayola)",
+    "Hex (24 bit)": "#DA8A67"
+  },
+  {
+    "Name": "Copper penny",
+    "Hex (24 bit)": "#AD6F69"
+  },
+  {
+    "Name": "Copper red",
+    "Hex (24 bit)": "#CB6D51"
+  },
+  {
+    "Name": "Copper rose",
+    "Hex (24 bit)": "#996666"
+  },
+  {
+    "Name": "Coquelicot",
+    "Hex (24 bit)": "#FF3800"
+  },
+  {
+    "Name": "Coral",
+    "Hex (24 bit)": "#FF7F50"
+  },
+  {
+    "Name": "Coral pink",
+    "Hex (24 bit)": "#F88379"
+  },
+  {
+    "Name": "Coral red",
+    "Hex (24 bit)": "#FF4040"
+  },
+  {
+    "Name": "Coral Reef",
+    "Hex (24 bit)": "#FD7C6E"
+  },
+  {
+    "Name": "Cordovan",
+    "Hex (24 bit)": "#893F45"
+  },
+  {
+    "Name": "Corn",
+    "Hex (24 bit)": "#FBEC5D"
+  },
+  {
+    "Name": "Cornell Red",
+    "Hex (24 bit)": "#B31B1B"
+  },
+  {
+    "Name": "Cornflower blue",
+    "Hex (24 bit)": "#6495ED"
+  },
+  {
+    "Name": "Cornsilk",
+    "Hex (24 bit)": "#FFF8DC"
+  },
+  {
+    "Name": "Cosmic Cobalt",
+    "Hex (24 bit)": "#2E2D88"
+  },
+  {
+    "Name": "Cosmic latte",
+    "Hex (24 bit)": "#FFF8E7"
+  },
+  {
+    "Name": "Coyote brown",
+    "Hex (24 bit)": "#81613C"
+  },
+  {
+    "Name": "Cotton candy",
+    "Hex (24 bit)": "#FFBCD9"
+  },
+  {
+    "Name": "Cream",
+    "Hex (24 bit)": "#FFFDD0"
+  },
+  {
+    "Name": "Crimson",
+    "Hex (24 bit)": "#DC143C"
+  },
+  {
+    "Name": "Crimson glory",
+    "Hex (24 bit)": "#BE0032"
+  },
+  {
+    "Name": "Crimson red",
+    "Hex (24 bit)": "#990000"
+  },
+  {
+    "Name": "Cultured",
+    "Hex (24 bit)": "#F5F5F5"
+  },
+  {
+    "Name": "Cyan",
+    "Hex (24 bit)": "#00FFFF"
+  },
+  {
+    "Name": "Cyan azure",
+    "Hex (24 bit)": "#4E82B4"
+  },
+  {
+    "Name": "Cyan-blue azure",
+    "Hex (24 bit)": "#4682BF"
+  },
+  {
+    "Name": "Cyan cobalt blue",
+    "Hex (24 bit)": "#28589C"
+  },
+  {
+    "Name": "Cyan cornflower blue",
+    "Hex (24 bit)": "#188BC2"
+  },
+  {
+    "Name": "Cyan (process)",
+    "Hex (24 bit)": "#00B7EB"
+  },
+  {
+    "Name": "Cyber grape",
+    "Hex (24 bit)": "#58427C"
+  },
+  {
+    "Name": "Cyber yellow",
+    "Hex (24 bit)": "#FFD300"
+  },
+  {
+    "Name": "Cyclamen",
+    "Hex (24 bit)": "#F56FA1"
+  },
+  {
+    "Name": "Daffodil",
+    "Hex (24 bit)": "#FFFF31"
+  },
+  {
+    "Name": "Dandelion",
+    "Hex (24 bit)": "#F0E130"
+  },
+  {
+    "Name": "Dark blue",
+    "Hex (24 bit)": "#00008B"
+  },
+  {
+    "Name": "Dark blue-gray",
+    "Hex (24 bit)": "#666699"
+  },
+  {
+    "Name": "Dark brown",
+    "Hex (24 bit)": "#654321"
+  },
+  {
+    "Name": "Dark brown-tangelo",
+    "Hex (24 bit)": "#88654E"
+  },
+  {
+    "Name": "Dark byzantium",
+    "Hex (24 bit)": "#5D3954"
+  },
+  {
+    "Name": "Dark candy apple red",
+    "Hex (24 bit)": "#A40000"
+  },
+  {
+    "Name": "Dark cerulean",
+    "Hex (24 bit)": "#08457E"
+  },
+  {
+    "Name": "Dark chestnut",
+    "Hex (24 bit)": "#986960"
+  },
+  {
+    "Name": "Dark coral",
+    "Hex (24 bit)": "#CD5B45"
+  },
+  {
+    "Name": "Dark cyan",
+    "Hex (24 bit)": "#008B8B"
+  },
+  {
+    "Name": "Dark electric blue",
+    "Hex (24 bit)": "#536878"
+  },
+  {
+    "Name": "Dark goldenrod",
+    "Hex (24 bit)": "#B8860B"
+  },
+  {
+    "Name": "Dark gray (X11)",
+    "Hex (24 bit)": "#A9A9A9"
+  },
+  {
+    "Name": "Dark green",
+    "Hex (24 bit)": "#013220"
+  },
+  {
+    "Name": "Dark green (X11)",
+    "Hex (24 bit)": "#006400"
+  },
+  {
+    "Name": "Dark gunmetal",
+    "Hex (24 bit)": "#1F262A"
+  },
+  {
+    "Name": "Dark imperial blue",
+    "Hex (24 bit)": "#00416A"
+  },
+  {
+    "Name": "Dark imperial blue",
+    "Hex (24 bit)": "#00147E"
+  },
+  {
+    "Name": "Dark jungle green",
+    "Hex (24 bit)": "#1A2421"
+  },
+  {
+    "Name": "Dark khaki",
+    "Hex (24 bit)": "#BDB76B"
+  },
+  {
+    "Name": "Dark lava",
+    "Hex (24 bit)": "#483C32"
+  },
+  {
+    "Name": "Dark lavender",
+    "Hex (24 bit)": "#734F96"
+  },
+  {
+    "Name": "Dark liver",
+    "Hex (24 bit)": "#534B4F"
+  },
+  {
+    "Name": "Dark liver (horses)",
+    "Hex (24 bit)": "#543D37"
+  },
+  {
+    "Name": "Dark magenta",
+    "Hex (24 bit)": "#8B008B"
+  },
+  {
+    "Name": "Dark medium gray",
+    "Hex (24 bit)": "#A9A9A9"
+  },
+  {
+    "Name": "Dark midnight blue",
+    "Hex (24 bit)": "#003366"
+  },
+  {
+    "Name": "Dark moss green",
+    "Hex (24 bit)": "#4A5D23"
+  },
+  {
+    "Name": "Dark olive green",
+    "Hex (24 bit)": "#556B2F"
+  },
+  {
+    "Name": "Dark orange",
+    "Hex (24 bit)": "#FF8C00"
+  },
+  {
+    "Name": "Dark orchid",
+    "Hex (24 bit)": "#9932CC"
+  },
+  {
+    "Name": "Dark pastel blue",
+    "Hex (24 bit)": "#779ECB"
+  },
+  {
+    "Name": "Dark pastel green",
+    "Hex (24 bit)": "#03C03C"
+  },
+  {
+    "Name": "Dark pastel purple",
+    "Hex (24 bit)": "#966FD6"
+  },
+  {
+    "Name": "Dark pastel red",
+    "Hex (24 bit)": "#C23B22"
+  },
+  {
+    "Name": "Dark pink",
+    "Hex (24 bit)": "#E75480"
+  },
+  {
+    "Name": "Dark powder blue",
+    "Hex (24 bit)": "#003399"
+  },
+  {
+    "Name": "Dark puce",
+    "Hex (24 bit)": "#4F3A3C"
+  },
+  {
+    "Name": "Dark purple",
+    "Hex (24 bit)": "#301934"
+  },
+  {
+    "Name": "Dark raspberry",
+    "Hex (24 bit)": "#872657"
+  },
+  {
+    "Name": "Dark red",
+    "Hex (24 bit)": "#8B0000"
+  },
+  {
+    "Name": "Dark salmon",
+    "Hex (24 bit)": "#E9967A"
+  },
+  {
+    "Name": "Dark scarlet",
+    "Hex (24 bit)": "#560319"
+  },
+  {
+    "Name": "Dark sea green",
+    "Hex (24 bit)": "#8FBC8F"
+  },
+  {
+    "Name": "Dark sienna",
+    "Hex (24 bit)": "#3C1414"
+  },
+  {
+    "Name": "Dark sky blue",
+    "Hex (24 bit)": "#8CBED6"
+  },
+  {
+    "Name": "Dark slate blue",
+    "Hex (24 bit)": "#483D8B"
+  },
+  {
+    "Name": "Dark slate gray",
+    "Hex (24 bit)": "#2F4F4F"
+  },
+  {
+    "Name": "Dark spring green",
+    "Hex (24 bit)": "#177245"
+  },
+  {
+    "Name": "Dark tan",
+    "Hex (24 bit)": "#918151"
+  },
+  {
+    "Name": "Dark tangerine",
+    "Hex (24 bit)": "#FFA812"
+  },
+  {
+    "Name": "Dark taupe",
+    "Hex (24 bit)": "#483C32"
+  },
+  {
+    "Name": "Dark terra cotta",
+    "Hex (24 bit)": "#CC4E5C"
+  },
+  {
+    "Name": "Dark turquoise",
+    "Hex (24 bit)": "#00CED1"
+  },
+  {
+    "Name": "Dark vanilla",
+    "Hex (24 bit)": "#D1BEA8"
+  },
+  {
+    "Name": "Dark violet",
+    "Hex (24 bit)": "#9400D3"
+  },
+  {
+    "Name": "Dark yellow",
+    "Hex (24 bit)": "#9B870C"
+  },
+  {
+    "Name": "Dartmouth green",
+    "Hex (24 bit)": "#00703C"
+  },
+  {
+    "Name": "Davy's grey",
+    "Hex (24 bit)": "#555555"
+  },
+  {
+    "Name": "Debian red",
+    "Hex (24 bit)": "#D70A53"
+  },
+  {
+    "Name": "Deep aquamarine",
+    "Hex (24 bit)": "#40826D"
+  },
+  {
+    "Name": "Deep carmine",
+    "Hex (24 bit)": "#A9203E"
+  },
+  {
+    "Name": "Deep carmine pink",
+    "Hex (24 bit)": "#EF3038"
+  },
+  {
+    "Name": "Deep carrot orange",
+    "Hex (24 bit)": "#E9692C"
+  },
+  {
+    "Name": "Deep cerise",
+    "Hex (24 bit)": "#DA3287"
+  },
+  {
+    "Name": "Deep champagne",
+    "Hex (24 bit)": "#FAD6A5"
+  },
+  {
+    "Name": "Deep chestnut",
+    "Hex (24 bit)": "#B94E48"
+  },
+  {
+    "Name": "Deep coffee",
+    "Hex (24 bit)": "#704241"
+  },
+  {
+    "Name": "Deep fuchsia",
+    "Hex (24 bit)": "#C154C1"
+  },
+  {
+    "Name": "Deep Green",
+    "Hex (24 bit)": "#056608"
+  },
+  {
+    "Name": "Deep green-cyan turquoise",
+    "Hex (24 bit)": "#0E7C61"
+  },
+  {
+    "Name": "Deep jungle green",
+    "Hex (24 bit)": "#004B49"
+  },
+  {
+    "Name": "Deep koamaru",
+    "Hex (24 bit)": "#333366"
+  },
+  {
+    "Name": "Deep lemon",
+    "Hex (24 bit)": "#F5C71A"
+  },
+  {
+    "Name": "Deep lilac",
+    "Hex (24 bit)": "#9955BB"
+  },
+  {
+    "Name": "Deep magenta",
+    "Hex (24 bit)": "#CC00CC"
+  },
+  {
+    "Name": "Deep maroon",
+    "Hex (24 bit)": "#820000"
+  },
+  {
+    "Name": "Deep mauve",
+    "Hex (24 bit)": "#D473D4"
+  },
+  {
+    "Name": "Deep moss green",
+    "Hex (24 bit)": "#355E3B"
+  },
+  {
+    "Name": "Deep peach",
+    "Hex (24 bit)": "#FFCBA4"
+  },
+  {
+    "Name": "Deep pink",
+    "Hex (24 bit)": "#FF1493"
+  },
+  {
+    "Name": "Deep puce",
+    "Hex (24 bit)": "#A95C68"
+  },
+  {
+    "Name": "Deep Red",
+    "Hex (24 bit)": "#850101"
+  },
+  {
+    "Name": "Deep ruby",
+    "Hex (24 bit)": "#843F5B"
+  },
+  {
+    "Name": "Deep saffron",
+    "Hex (24 bit)": "#FF9933"
+  },
+  {
+    "Name": "Deep sky blue",
+    "Hex (24 bit)": "#00BFFF"
+  },
+  {
+    "Name": "Deep Space Sparkle",
+    "Hex (24 bit)": "#4A646C"
+  },
+  {
+    "Name": "Deep spring bud",
+    "Hex (24 bit)": "#556B2F"
+  },
+  {
+    "Name": "Deep Taupe",
+    "Hex (24 bit)": "#7E5E60"
+  },
+  {
+    "Name": "Deep Tuscan red",
+    "Hex (24 bit)": "#66424D"
+  },
+  {
+    "Name": "Deep violet",
+    "Hex (24 bit)": "#330066"
+  },
+  {
+    "Name": "Deer",
+    "Hex (24 bit)": "#BA8759"
+  },
+  {
+    "Name": "Denim",
+    "Hex (24 bit)": "#1560BD"
+  },
+  {
+    "Name": "Denim Blue",
+    "Hex (24 bit)": "#2243B6"
+  },
+  {
+    "Name": "Desaturated cyan",
+    "Hex (24 bit)": "#669999"
+  },
+  {
+    "Name": "Desert",
+    "Hex (24 bit)": "#C19A6B"
+  },
+  {
+    "Name": "Desert sand",
+    "Hex (24 bit)": "#EDC9AF"
+  },
+  {
+    "Name": "Desire",
+    "Hex (24 bit)": "#EA3C53"
+  },
+  {
+    "Name": "Diamond",
+    "Hex (24 bit)": "#B9F2FF"
+  },
+  {
+    "Name": "Dim gray",
+    "Hex (24 bit)": "#696969"
+  },
+  {
+    "Name": "Dingy Dungeon",
+    "Hex (24 bit)": "#C53151"
+  },
+  {
+    "Name": "Dirt",
+    "Hex (24 bit)": "#9B7653"
+  },
+  {
+    "Name": "Dodger blue",
+    "Hex (24 bit)": "#1E90FF"
+  },
+  {
+    "Name": "Dogwood rose",
+    "Hex (24 bit)": "#D71868"
+  },
+  {
+    "Name": "Dollar bill",
+    "Hex (24 bit)": "#85BB65"
+  },
+  {
+    "Name": "Dolphin Gray",
+    "Hex (24 bit)": "#828E84"
+  },
+  {
+    "Name": "Donkey brown",
+    "Hex (24 bit)": "#664C28"
+  },
+  {
+    "Name": "Drab",
+    "Hex (24 bit)": "#967117"
+  },
+  {
+    "Name": "Duke blue",
+    "Hex (24 bit)": "#00009C"
+  },
+  {
+    "Name": "Dust storm",
+    "Hex (24 bit)": "#E5CCC9"
+  },
+  {
+    "Name": "Dutch white",
+    "Hex (24 bit)": "#EFDFBB"
+  },
+  {
+    "Name": "Earth yellow",
+    "Hex (24 bit)": "#E1A95F"
+  },
+  {
+    "Name": "Ebony",
+    "Hex (24 bit)": "#555D50"
+  },
+  {
+    "Name": "Ecru",
+    "Hex (24 bit)": "#C2B280"
+  },
+  {
+    "Name": "Eerie black",
+    "Hex (24 bit)": "#1B1B1B"
+  },
+  {
+    "Name": "Eggplant",
+    "Hex (24 bit)": "#614051"
+  },
+  {
+    "Name": "Eggshell",
+    "Hex (24 bit)": "#F0EAD6"
+  },
+  {
+    "Name": "Egyptian blue",
+    "Hex (24 bit)": "#1034A6"
+  },
+  {
+    "Name": "Electric blue",
+    "Hex (24 bit)": "#7DF9FF"
+  },
+  {
+    "Name": "Electric crimson",
+    "Hex (24 bit)": "#FF003F"
+  },
+  {
+    "Name": "Electric cyan",
+    "Hex (24 bit)": "#00FFFF"
+  },
+  {
+    "Name": "Electric green",
+    "Hex (24 bit)": "#00FF00"
+  },
+  {
+    "Name": "Electric indigo",
+    "Hex (24 bit)": "#6F00FF"
+  },
+  {
+    "Name": "Electric lavender",
+    "Hex (24 bit)": "#F4BBFF"
+  },
+  {
+    "Name": "Electric lime",
+    "Hex (24 bit)": "#CCFF00"
+  },
+  {
+    "Name": "Electric purple",
+    "Hex (24 bit)": "#BF00FF"
+  },
+  {
+    "Name": "Electric ultramarine",
+    "Hex (24 bit)": "#3F00FF"
+  },
+  {
+    "Name": "Electric violet",
+    "Hex (24 bit)": "#8F00FF"
+  },
+  {
+    "Name": "Electric yellow",
+    "Hex (24 bit)": "#FFFF33"
+  },
+  {
+    "Name": "Emerald",
+    "Hex (24 bit)": "#50C878"
+  },
+  {
+    "Name": "Eminence",
+    "Hex (24 bit)": "#6C3082"
+  },
+  {
+    "Name": "English green",
+    "Hex (24 bit)": "#1B4D3E"
+  },
+  {
+    "Name": "English lavender",
+    "Hex (24 bit)": "#B48395"
+  },
+  {
+    "Name": "English red",
+    "Hex (24 bit)": "#AB4B52"
+  },
+  {
+    "Name": "English vermillion",
+    "Hex (24 bit)": "#CC474B"
+  },
+  {
+    "Name": "English violet",
+    "Hex (24 bit)": "#563C5C"
+  },
+  {
+    "Name": "Eton blue",
+    "Hex (24 bit)": "#96C8A2"
+  },
+  {
+    "Name": "Eucalyptus",
+    "Hex (24 bit)": "#44D7A8"
+  },
+  {
+    "Name": "Fallow",
+    "Hex (24 bit)": "#C19A6B"
+  },
+  {
+    "Name": "Falu red",
+    "Hex (24 bit)": "#801818"
+  },
+  {
+    "Name": "Fandango",
+    "Hex (24 bit)": "#B53389"
+  },
+  {
+    "Name": "Fandango pink",
+    "Hex (24 bit)": "#DE5285"
+  },
+  {
+    "Name": "Fashion fuchsia",
+    "Hex (24 bit)": "#F400A1"
+  },
+  {
+    "Name": "Fawn",
+    "Hex (24 bit)": "#E5AA70"
+  },
+  {
+    "Name": "Feldgrau",
+    "Hex (24 bit)": "#4D5D53"
+  },
+  {
+    "Name": "Feldspar",
+    "Hex (24 bit)": "#FDD5B1"
+  },
+  {
+    "Name": "Fern green",
+    "Hex (24 bit)": "#4F7942"
+  },
+  {
+    "Name": "Ferrari Red",
+    "Hex (24 bit)": "#FF2800"
+  },
+  {
+    "Name": "Field drab",
+    "Hex (24 bit)": "#6C541E"
+  },
+  {
+    "Name": "Fiery Rose",
+    "Hex (24 bit)": "#FF5470"
+  },
+  {
+    "Name": "Firebrick",
+    "Hex (24 bit)": "#B22222"
+  },
+  {
+    "Name": "Fire engine red",
+    "Hex (24 bit)": "#CE2029"
+  },
+  {
+    "Name": "Flame",
+    "Hex (24 bit)": "#E25822"
+  },
+  {
+    "Name": "Flamingo pink",
+    "Hex (24 bit)": "#FC8EAC"
+  },
+  {
+    "Name": "Flattery",
+    "Hex (24 bit)": "#6B4423"
+  },
+  {
+    "Name": "Flavescent",
+    "Hex (24 bit)": "#F7E98E"
+  },
+  {
+    "Name": "Flax",
+    "Hex (24 bit)": "#EEDC82"
+  },
+  {
+    "Name": "Flirt",
+    "Hex (24 bit)": "#A2006D"
+  },
+  {
+    "Name": "Floral white",
+    "Hex (24 bit)": "#FFFAF0"
+  },
+  {
+    "Name": "Fluorescent orange",
+    "Hex (24 bit)": "#FFBF00"
+  },
+  {
+    "Name": "Fluorescent pink",
+    "Hex (24 bit)": "#FF1493"
+  },
+  {
+    "Name": "Fluorescent yellow",
+    "Hex (24 bit)": "#CCFF00"
+  },
+  {
+    "Name": "Folly",
+    "Hex (24 bit)": "#FF004F"
+  },
+  {
+    "Name": "Forest green (traditional)",
+    "Hex (24 bit)": "#014421"
+  },
+  {
+    "Name": "Forest green (web)",
+    "Hex (24 bit)": "#228B22"
+  },
+  {
+    "Name": "French beige",
+    "Hex (24 bit)": "#A67B5B"
+  },
+  {
+    "Name": "French bistre",
+    "Hex (24 bit)": "#856D4D"
+  },
+  {
+    "Name": "French blue",
+    "Hex (24 bit)": "#0072BB"
+  },
+  {
+    "Name": "French fuchsia",
+    "Hex (24 bit)": "#FD3F92"
+  },
+  {
+    "Name": "French lilac",
+    "Hex (24 bit)": "#86608E"
+  },
+  {
+    "Name": "French lime",
+    "Hex (24 bit)": "#9EFD38"
+  },
+  {
+    "Name": "French mauve",
+    "Hex (24 bit)": "#D473D4"
+  },
+  {
+    "Name": "French pink",
+    "Hex (24 bit)": "#FD6C9E"
+  },
+  {
+    "Name": "French plum",
+    "Hex (24 bit)": "#811453"
+  },
+  {
+    "Name": "French puce",
+    "Hex (24 bit)": "#4E1609"
+  },
+  {
+    "Name": "French raspberry",
+    "Hex (24 bit)": "#C72C48"
+  },
+  {
+    "Name": "French rose",
+    "Hex (24 bit)": "#F64A8A"
+  },
+  {
+    "Name": "French sky blue",
+    "Hex (24 bit)": "#77B5FE"
+  },
+  {
+    "Name": "French violet",
+    "Hex (24 bit)": "#8806CE"
+  },
+  {
+    "Name": "French wine",
+    "Hex (24 bit)": "#AC1E44"
+  },
+  {
+    "Name": "Fresh Air",
+    "Hex (24 bit)": "#A6E7FF"
+  },
+  {
+    "Name": "Frostbite",
+    "Hex (24 bit)": "#E936A7"
+  },
+  {
+    "Name": "Fuchsia",
+    "Hex (24 bit)": "#FF00FF"
+  },
+  {
+    "Name": "Fuchsia (Crayola)",
+    "Hex (24 bit)": "#C154C1"
+  },
+  {
+    "Name": "Fuchsia pink",
+    "Hex (24 bit)": "#FF77FF"
+  },
+  {
+    "Name": "Fuchsia purple",
+    "Hex (24 bit)": "#CC397B"
+  },
+  {
+    "Name": "Fuchsia rose",
+    "Hex (24 bit)": "#C74375"
+  },
+  {
+    "Name": "Fulvous",
+    "Hex (24 bit)": "#E48400"
+  },
+  {
+    "Name": "Fuzzy Wuzzy",
+    "Hex (24 bit)": "#CC6666"
+  },
+  {
+    "Name": "Gainsboro",
+    "Hex (24 bit)": "#DCDCDC"
+  },
+  {
+    "Name": "Gamboge",
+    "Hex (24 bit)": "#E49B0F"
+  },
+  {
+    "Name": "Gamboge orange (brown)",
+    "Hex (24 bit)": "#996600"
+  },
+  {
+    "Name": "Gargoyle Gas",
+    "Hex (24 bit)": "#FFDF46"
+  },
+  {
+    "Name": "Generic viridian",
+    "Hex (24 bit)": "#007F66"
+  },
+  {
+    "Name": "Ghost white",
+    "Hex (24 bit)": "#F8F8FF"
+  },
+  {
+    "Name": "Giant's Club",
+    "Hex (24 bit)": "#B05C52"
+  },
+  {
+    "Name": "Giants orange",
+    "Hex (24 bit)": "#FE5A1D"
+  },
+  {
+    "Name": "Ginger",
+    "Hex (24 bit)": "#B06500"
+  },
+  {
+    "Name": "Glaucous",
+    "Hex (24 bit)": "#6082B6"
+  },
+  {
+    "Name": "Glitter",
+    "Hex (24 bit)": "#E6E8FA"
+  },
+  {
+    "Name": "Glossy Grape",
+    "Hex (24 bit)": "#AB92B3"
+  },
+  {
+    "Name": "GO green",
+    "Hex (24 bit)": "#00AB66"
+  },
+  {
+    "Name": "Gold (metallic)",
+    "Hex (24 bit)": "#D4AF37"
+  },
+  {
+    "Name": "Gold (web) (Golden)",
+    "Hex (24 bit)": "#FFD700"
+  },
+  {
+    "Name": "Gold Fusion",
+    "Hex (24 bit)": "#85754E"
+  },
+  {
+    "Name": "Golden brown",
+    "Hex (24 bit)": "#996515"
+  },
+  {
+    "Name": "Golden poppy",
+    "Hex (24 bit)": "#FCC200"
+  },
+  {
+    "Name": "Golden yellow",
+    "Hex (24 bit)": "#FFDF00"
+  },
+  {
+    "Name": "Goldenrod",
+    "Hex (24 bit)": "#DAA520"
+  },
+  {
+    "Name": "Granite Gray",
+    "Hex (24 bit)": "#676767"
+  },
+  {
+    "Name": "Granny Smith Apple",
+    "Hex (24 bit)": "#A8E4A0"
+  },
+  {
+    "Name": "Grape",
+    "Hex (24 bit)": "#6F2DA8"
+  },
+  {
+    "Name": "Gray",
+    "Hex (24 bit)": "#808080"
+  },
+  {
+    "Name": "Gray (HTML/CSS gray)",
+    "Hex (24 bit)": "#808080"
+  },
+  {
+    "Name": "Gray (X11 gray)",
+    "Hex (24 bit)": "#BEBEBE"
+  },
+  {
+    "Name": "Gray-asparagus",
+    "Hex (24 bit)": "#465945"
+  },
+  {
+    "Name": "Gray-blue",
+    "Hex (24 bit)": "#8C92AC"
+  },
+  {
+    "Name": "Green (Color Wheel) (X11 green)",
+    "Hex (24 bit)": "#00FF00"
+  },
+  {
+    "Name": "Green (Crayola)",
+    "Hex (24 bit)": "#1CAC78"
+  },
+  {
+    "Name": "Green (HTML/CSS color)",
+    "Hex (24 bit)": "#008000"
+  },
+  {
+    "Name": "Green (Munsell)",
+    "Hex (24 bit)": "#00A877"
+  },
+  {
+    "Name": "Green (NCS)",
+    "Hex (24 bit)": "#009F6B"
+  },
+  {
+    "Name": "Green (Pantone)",
+    "Hex (24 bit)": "#00AD43"
+  },
+  {
+    "Name": "Green (pigment)",
+    "Hex (24 bit)": "#00A550"
+  },
+  {
+    "Name": "Green (RYB)",
+    "Hex (24 bit)": "#66B032"
+  },
+  {
+    "Name": "Green-blue",
+    "Hex (24 bit)": "#1164B4"
+  },
+  {
+    "Name": "Green-cyan",
+    "Hex (24 bit)": "#009966"
+  },
+  {
+    "Name": "Green Lizard",
+    "Hex (24 bit)": "#A7F432"
+  },
+  {
+    "Name": "Green Sheen",
+    "Hex (24 bit)": "#6EAEA1"
+  },
+  {
+    "Name": "Green-yellow",
+    "Hex (24 bit)": "#ADFF2F"
+  },
+  {
+    "Name": "Grizzly",
+    "Hex (24 bit)": "#885818"
+  },
+  {
+    "Name": "Grullo",
+    "Hex (24 bit)": "#A99A86"
+  },
+  {
+    "Name": "Guppie green",
+    "Hex (24 bit)": "#00FF7F"
+  },
+  {
+    "Name": "Gunmetal",
+    "Hex (24 bit)": "#2a3439"
+  },
+  {
+    "Name": "Halayà úbe",
+    "Hex (24 bit)": "#663854"
+  },
+  {
+    "Name": "Han blue",
+    "Hex (24 bit)": "#446CCF"
+  },
+  {
+    "Name": "Han purple",
+    "Hex (24 bit)": "#5218FA"
+  },
+  {
+    "Name": "Hansa yellow",
+    "Hex (24 bit)": "#E9D66B"
+  },
+  {
+    "Name": "Harlequin",
+    "Hex (24 bit)": "#3FFF00"
+  },
+  {
+    "Name": "Harlequin green",
+    "Hex (24 bit)": "#46CB18"
+  },
+  {
+    "Name": "Harvard crimson",
+    "Hex (24 bit)": "#C90016"
+  },
+  {
+    "Name": "Harvest gold",
+    "Hex (24 bit)": "#DA9100"
+  },
+  {
+    "Name": "Heart Gold",
+    "Hex (24 bit)": "#808000"
+  },
+  {
+    "Name": "Heat Wave",
+    "Hex (24 bit)": "#FF7A00"
+  },
+  {
+    "Name": "Heidelberg Red[2]",
+    "Hex (24 bit)": "#960018"
+  },
+  {
+    "Name": "Heliotrope",
+    "Hex (24 bit)": "#DF73FF"
+  },
+  {
+    "Name": "Heliotrope gray",
+    "Hex (24 bit)": "#AA98A9"
+  },
+  {
+    "Name": "Heliotrope magenta",
+    "Hex (24 bit)": "#AA00BB"
+  },
+  {
+    "Name": "Hollywood cerise",
+    "Hex (24 bit)": "#F400A1"
+  },
+  {
+    "Name": "Honeydew",
+    "Hex (24 bit)": "#F0FFF0"
+  },
+  {
+    "Name": "Honolulu blue",
+    "Hex (24 bit)": "#006DB0"
+  },
+  {
+    "Name": "Hooker's green",
+    "Hex (24 bit)": "#49796B"
+  },
+  {
+    "Name": "Hot magenta",
+    "Hex (24 bit)": "#FF1DCE"
+  },
+  {
+    "Name": "Hot pink",
+    "Hex (24 bit)": "#FF69B4"
+  },
+  {
+    "Name": "Hunter green",
+    "Hex (24 bit)": "#355E3B"
+  },
+  {
+    "Name": "Iceberg",
+    "Hex (24 bit)": "#71A6D2"
+  },
+  {
+    "Name": "Icterine",
+    "Hex (24 bit)": "#FCF75E"
+  },
+  {
+    "Name": "Iguana Green",
+    "Hex (24 bit)": "#71BC78"
+  },
+  {
+    "Name": "Illuminating Emerald",
+    "Hex (24 bit)": "#319177"
+  },
+  {
+    "Name": "Imperial",
+    "Hex (24 bit)": "#602F6B"
+  },
+  {
+    "Name": "Imperial blue",
+    "Hex (24 bit)": "#002395"
+  },
+  {
+    "Name": "Imperial purple",
+    "Hex (24 bit)": "#66023C"
+  },
+  {
+    "Name": "Imperial red",
+    "Hex (24 bit)": "#ED2939"
+  },
+  {
+    "Name": "Inchworm",
+    "Hex (24 bit)": "#B2EC5D"
+  },
+  {
+    "Name": "Independence",
+    "Hex (24 bit)": "#4C516D"
+  },
+  {
+    "Name": "India green",
+    "Hex (24 bit)": "#138808"
+  },
+  {
+    "Name": "Indian red",
+    "Hex (24 bit)": "#CD5C5C"
+  },
+  {
+    "Name": "Indian yellow",
+    "Hex (24 bit)": "#E3A857"
+  },
+  {
+    "Name": "Indigo",
+    "Hex (24 bit)": "#4B0082"
+  },
+  {
+    "Name": "Indigo dye",
+    "Hex (24 bit)": "#091F92"
+  },
+  {
+    "Name": "Indigo (web)",
+    "Hex (24 bit)": "#4B0082"
+  },
+  {
+    "Name": "Infra Red",
+    "Hex (24 bit)": "#FF496C"
+  },
+  {
+    "Name": "Interdimensional Blue",
+    "Hex (24 bit)": "#360CCC"
+  },
+  {
+    "Name": "International Klein Blue",
+    "Hex (24 bit)": "#002FA7"
+  },
+  {
+    "Name": "International orange (aerospace)",
+    "Hex (24 bit)": "#FF4F00"
+  },
+  {
+    "Name": "International orange (engineering)",
+    "Hex (24 bit)": "#BA160C"
+  },
+  {
+    "Name": "International orange (Golden Gate Bridge)",
+    "Hex (24 bit)": "#C0362C"
+  },
+  {
+    "Name": "Iris",
+    "Hex (24 bit)": "#5A4FCF"
+  },
+  {
+    "Name": "Irresistible",
+    "Hex (24 bit)": "#B3446C"
+  },
+  {
+    "Name": "Isabelline",
+    "Hex (24 bit)": "#F4F0EC"
+  },
+  {
+    "Name": "Islamic green",
+    "Hex (24 bit)": "#009000"
+  },
+  {
+    "Name": "Italian sky blue",
+    "Hex (24 bit)": "#B2FFFF"
+  },
+  {
+    "Name": "Ivory",
+    "Hex (24 bit)": "#FFFFF0"
+  },
+  {
+    "Name": "Jade",
+    "Hex (24 bit)": "#00A86B"
+  },
+  {
+    "Name": "Japanese carmine",
+    "Hex (24 bit)": "#9D2933"
+  },
+  {
+    "Name": "Japanese indigo",
+    "Hex (24 bit)": "#264348"
+  },
+  {
+    "Name": "Japanese violet",
+    "Hex (24 bit)": "#5B3256"
+  },
+  {
+    "Name": "Jasmine",
+    "Hex (24 bit)": "#F8DE7E"
+  },
+  {
+    "Name": "Jasper",
+    "Hex (24 bit)": "#D73B3E"
+  },
+  {
+    "Name": "Jazzberry jam",
+    "Hex (24 bit)": "#A50B5E"
+  },
+  {
+    "Name": "Jelly Bean",
+    "Hex (24 bit)": "#DA614E"
+  },
+  {
+    "Name": "Jet",
+    "Hex (24 bit)": "#343434"
+  },
+  {
+    "Name": "Jonquil",
+    "Hex (24 bit)": "#F4CA16"
+  },
+  {
+    "Name": "Jordy blue",
+    "Hex (24 bit)": "#8AB9F1"
+  },
+  {
+    "Name": "June bud",
+    "Hex (24 bit)": "#BDDA57"
+  },
+  {
+    "Name": "Jungle green",
+    "Hex (24 bit)": "#29AB87"
+  },
+  {
+    "Name": "Kelly green",
+    "Hex (24 bit)": "#4CBB17"
+  },
+  {
+    "Name": "Kenyan copper",
+    "Hex (24 bit)": "#7C1C05"
+  },
+  {
+    "Name": "Keppel",
+    "Hex (24 bit)": "#3AB09E"
+  },
+  {
+    "Name": "Key Lime",
+    "Hex (24 bit)": "#E8F48C"
+  },
+  {
+    "Name": "Khaki (HTML/CSS) (Khaki)",
+    "Hex (24 bit)": "#C3B091"
+  },
+  {
+    "Name": "Khaki (X11) (Light khaki)",
+    "Hex (24 bit)": "#F0E68C"
+  },
+  {
+    "Name": "Kiwi",
+    "Hex (24 bit)": "#8EE53F"
+  },
+  {
+    "Name": "Kobe",
+    "Hex (24 bit)": "#882D17"
+  },
+  {
+    "Name": "Kobi",
+    "Hex (24 bit)": "#E79FC4"
+  },
+  {
+    "Name": "Kobicha",
+    "Hex (24 bit)": "#6B4423"
+  },
+  {
+    "Name": "Kombu green",
+    "Hex (24 bit)": "#354230"
+  },
+  {
+    "Name": "KSU Purple",
+    "Hex (24 bit)": "#512888"
+  },
+  {
+    "Name": "KU Crimson",
+    "Hex (24 bit)": "#E8000D"
+  },
+  {
+    "Name": "La Salle Green",
+    "Hex (24 bit)": "#087830"
+  },
+  {
+    "Name": "Languid lavender",
+    "Hex (24 bit)": "#D6CADD"
+  },
+  {
+    "Name": "Lapis lazuli",
+    "Hex (24 bit)": "#26619C"
+  },
+  {
+    "Name": "Laser Lemon",
+    "Hex (24 bit)": "#FFFF66"
+  },
+  {
+    "Name": "Laurel green",
+    "Hex (24 bit)": "#A9BA9D"
+  },
+  {
+    "Name": "Lava",
+    "Hex (24 bit)": "#CF1020"
+  },
+  {
+    "Name": "Lavender (floral)",
+    "Hex (24 bit)": "#B57EDC"
+  },
+  {
+    "Name": "Lavender (web)",
+    "Hex (24 bit)": "#E6E6FA"
+  },
+  {
+    "Name": "Lavender blue",
+    "Hex (24 bit)": "#CCCCFF"
+  },
+  {
+    "Name": "Lavender blush",
+    "Hex (24 bit)": "#FFF0F5"
+  },
+  {
+    "Name": "Lavender gray",
+    "Hex (24 bit)": "#C4C3D0"
+  },
+  {
+    "Name": "Lavender indigo",
+    "Hex (24 bit)": "#9457EB"
+  },
+  {
+    "Name": "Lavender magenta",
+    "Hex (24 bit)": "#EE82EE"
+  },
+  {
+    "Name": "Lavender mist",
+    "Hex (24 bit)": "#E6E6FA"
+  },
+  {
+    "Name": "Lavender pink",
+    "Hex (24 bit)": "#FBAED2"
+  },
+  {
+    "Name": "Lavender purple",
+    "Hex (24 bit)": "#967BB6"
+  },
+  {
+    "Name": "Lavender rose",
+    "Hex (24 bit)": "#FBA0E3"
+  },
+  {
+    "Name": "Lawn green",
+    "Hex (24 bit)": "#7CFC00"
+  },
+  {
+    "Name": "Lemon",
+    "Hex (24 bit)": "#FFF700"
+  },
+  {
+    "Name": "Lemon chiffon",
+    "Hex (24 bit)": "#FFFACD"
+  },
+  {
+    "Name": "Lemon curry",
+    "Hex (24 bit)": "#CCA01D"
+  },
+  {
+    "Name": "Lemon glacier",
+    "Hex (24 bit)": "#FDFF00"
+  },
+  {
+    "Name": "Lemon lime",
+    "Hex (24 bit)": "#E3FF00"
+  },
+  {
+    "Name": "Lemon meringue",
+    "Hex (24 bit)": "#F6EABE"
+  },
+  {
+    "Name": "Lemon yellow",
+    "Hex (24 bit)": "#FFF44F"
+  },
+  {
+    "Name": "Licorice",
+    "Hex (24 bit)": "#1A1110"
+  },
+  {
+    "Name": "Liberty",
+    "Hex (24 bit)": "#545AA7"
+  },
+  {
+    "Name": "Light apricot",
+    "Hex (24 bit)": "#FDD5B1"
+  },
+  {
+    "Name": "Light blue",
+    "Hex (24 bit)": "#ADD8E6"
+  },
+  {
+    "Name": "Light brown",
+    "Hex (24 bit)": "#B5651D"
+  },
+  {
+    "Name": "Light carmine pink",
+    "Hex (24 bit)": "#E66771"
+  },
+  {
+    "Name": "Light cobalt blue",
+    "Hex (24 bit)": "#88ACE0"
+  },
+  {
+    "Name": "Light coral",
+    "Hex (24 bit)": "#F08080"
+  },
+  {
+    "Name": "Light cornflower blue",
+    "Hex (24 bit)": "#93CCEA"
+  },
+  {
+    "Name": "Light crimson",
+    "Hex (24 bit)": "#F56991"
+  },
+  {
+    "Name": "Light cyan",
+    "Hex (24 bit)": "#E0FFFF"
+  },
+  {
+    "Name": "Light deep pink",
+    "Hex (24 bit)": "#FF5CCD"
+  },
+  {
+    "Name": "Light French beige",
+    "Hex (24 bit)": "#C8AD7F"
+  },
+  {
+    "Name": "Light fuchsia pink",
+    "Hex (24 bit)": "#F984EF"
+  },
+  {
+    "Name": "Light goldenrod yellow",
+    "Hex (24 bit)": "#FAFAD2"
+  },
+  {
+    "Name": "Light gray",
+    "Hex (24 bit)": "#D3D3D3"
+  },
+  {
+    "Name": "Light grayish magenta",
+    "Hex (24 bit)": "#CC99CC"
+  },
+  {
+    "Name": "Light green",
+    "Hex (24 bit)": "#90EE90"
+  },
+  {
+    "Name": "Light hot pink",
+    "Hex (24 bit)": "#FFB3DE"
+  },
+  {
+    "Name": "Light khaki",
+    "Hex (24 bit)": "#F0E68C"
+  },
+  {
+    "Name": "Light medium orchid",
+    "Hex (24 bit)": "#D39BCB"
+  },
+  {
+    "Name": "Light moss green",
+    "Hex (24 bit)": "#ADDFAD"
+  },
+  {
+    "Name": "Light orchid",
+    "Hex (24 bit)": "#E6A8D7"
+  },
+  {
+    "Name": "Light pastel purple",
+    "Hex (24 bit)": "#B19CD9"
+  },
+  {
+    "Name": "Light pink",
+    "Hex (24 bit)": "#FFB6C1"
+  },
+  {
+    "Name": "Light red ochre",
+    "Hex (24 bit)": "#E97451"
+  },
+  {
+    "Name": "Light salmon",
+    "Hex (24 bit)": "#FFA07A"
+  },
+  {
+    "Name": "Light salmon pink",
+    "Hex (24 bit)": "#FF9999"
+  },
+  {
+    "Name": "Light sea green",
+    "Hex (24 bit)": "#20B2AA"
+  },
+  {
+    "Name": "Light sky blue",
+    "Hex (24 bit)": "#87CEFA"
+  },
+  {
+    "Name": "Light slate gray",
+    "Hex (24 bit)": "#778899"
+  },
+  {
+    "Name": "Light steel blue",
+    "Hex (24 bit)": "#B0C4DE"
+  },
+  {
+    "Name": "Light taupe",
+    "Hex (24 bit)": "#B38B6D"
+  },
+  {
+    "Name": "Light Thulian pink",
+    "Hex (24 bit)": "#E68FAC"
+  },
+  {
+    "Name": "Light yellow",
+    "Hex (24 bit)": "#FFFFE0"
+  },
+  {
+    "Name": "Lilac",
+    "Hex (24 bit)": "#C8A2C8"
+  },
+  {
+    "Name": "Lilac Luster",
+    "Hex (24 bit)": "#AE98AA"
+  },
+  {
+    "Name": "Lime (color wheel)",
+    "Hex (24 bit)": "#BFFF00"
+  },
+  {
+    "Name": "Lime (web) (X11 green)",
+    "Hex (24 bit)": "#00FF00"
+  },
+  {
+    "Name": "Lime green",
+    "Hex (24 bit)": "#32CD32"
+  },
+  {
+    "Name": "Limerick",
+    "Hex (24 bit)": "#9DC209"
+  },
+  {
+    "Name": "Lincoln green",
+    "Hex (24 bit)": "#195905"
+  },
+  {
+    "Name": "Linen",
+    "Hex (24 bit)": "#FAF0E6"
+  },
+  {
+    "Name": "Loeen(lopen)look/vomit+indogo+Lopen+Gabriel",
+    "Hex (24 bit)": "#15F2FD"
+  },
+  {
+    "Name": "Liseran Purple",
+    "Hex (24 bit)": "#DE6FA1"
+  },
+  {
+    "Name": "Little boy blue",
+    "Hex (24 bit)": "#6CA0DC"
+  },
+  {
+    "Name": "Liver",
+    "Hex (24 bit)": "#674C47"
+  },
+  {
+    "Name": "Liver (dogs)",
+    "Hex (24 bit)": "#B86D29"
+  },
+  {
+    "Name": "Liver (organ)",
+    "Hex (24 bit)": "#6C2E1F"
+  },
+  {
+    "Name": "Liver chestnut",
+    "Hex (24 bit)": "#987456"
+  },
+  {
+    "Name": "Livid",
+    "Hex (24 bit)": "#6699CC"
+  },
+  {
+    "Name": "Lumber",
+    "Hex (24 bit)": "#FFE4CD"
+  },
+  {
+    "Name": "Lust",
+    "Hex (24 bit)": "#E62020"
+  },
+  {
+    "Name": "Maastricht Blue",
+    "Hex (24 bit)": "#001C3D"
+  },
+  {
+    "Name": "Macaroni and Cheese",
+    "Hex (24 bit)": "#FFBD88"
+  },
+  {
+    "Name": "Madder Lake",
+    "Hex (24 bit)": "#CC3336"
+  },
+  {
+    "Name": "Magenta",
+    "Hex (24 bit)": "#FF00FF"
+  },
+  {
+    "Name": "Magenta (Crayola)",
+    "Hex (24 bit)": "#FF55A3"
+  },
+  {
+    "Name": "Magenta (dye)",
+    "Hex (24 bit)": "#CA1F7B"
+  },
+  {
+    "Name": "Magenta (Pantone)",
+    "Hex (24 bit)": "#D0417E"
+  },
+  {
+    "Name": "Magenta (process)",
+    "Hex (24 bit)": "#FF0090"
+  },
+  {
+    "Name": "Magenta haze",
+    "Hex (24 bit)": "#9F4576"
+  },
+  {
+    "Name": "Magenta-pink",
+    "Hex (24 bit)": "#CC338B"
+  },
+  {
+    "Name": "Magic mint",
+    "Hex (24 bit)": "#AAF0D1"
+  },
+  {
+    "Name": "Magic Potion",
+    "Hex (24 bit)": "#FF4466"
+  },
+  {
+    "Name": "Magnolia",
+    "Hex (24 bit)": "#F8F4FF"
+  },
+  {
+    "Name": "Mahogany",
+    "Hex (24 bit)": "#C04000"
+  },
+  {
+    "Name": "Maize",
+    "Hex (24 bit)": "#FBEC5D"
+  },
+  {
+    "Name": "Majorelle Blue",
+    "Hex (24 bit)": "#6050DC"
+  },
+  {
+    "Name": "Malachite",
+    "Hex (24 bit)": "#0BDA51"
+  },
+  {
+    "Name": "Manatee",
+    "Hex (24 bit)": "#979AAA"
+  },
+  {
+    "Name": "Mandarin",
+    "Hex (24 bit)": "#F37A48"
+  },
+  {
+    "Name": "Mango Tango",
+    "Hex (24 bit)": "#FF8243"
+  },
+  {
+    "Name": "Mantis",
+    "Hex (24 bit)": "#74C365"
+  },
+  {
+    "Name": "Mardi Gras",
+    "Hex (24 bit)": "#880085"
+  },
+  {
+    "Name": "Marigold",
+    "Hex (24 bit)": "#EAA221"
+  },
+  {
+    "Name": "Maroon (Crayola)",
+    "Hex (24 bit)": "#C32148"
+  },
+  {
+    "Name": "Maroon (HTML/CSS)",
+    "Hex (24 bit)": "#800000"
+  },
+  {
+    "Name": "Maroon (X11)",
+    "Hex (24 bit)": "#B03060"
+  },
+  {
+    "Name": "Mauve",
+    "Hex (24 bit)": "#E0B0FF"
+  },
+  {
+    "Name": "Mauve taupe",
+    "Hex (24 bit)": "#915F6D"
+  },
+  {
+    "Name": "Mauvelous",
+    "Hex (24 bit)": "#EF98AA"
+  },
+  {
+    "Name": "Maximum Blue",
+    "Hex (24 bit)": "#47ABCC"
+  },
+  {
+    "Name": "Maximum Blue Green",
+    "Hex (24 bit)": "#30BFBF"
+  },
+  {
+    "Name": "Maximum Blue Purple",
+    "Hex (24 bit)": "#ACACE6"
+  },
+  {
+    "Name": "Maximum Green",
+    "Hex (24 bit)": "#5E8C31"
+  },
+  {
+    "Name": "Maximum Green Yellow",
+    "Hex (24 bit)": "#D9E650"
+  },
+  {
+    "Name": "Maximum Purple",
+    "Hex (24 bit)": "#733380"
+  },
+  {
+    "Name": "Maximum Red",
+    "Hex (24 bit)": "#D92121"
+  },
+  {
+    "Name": "Maximum Red Purple",
+    "Hex (24 bit)": "#A63A79"
+  },
+  {
+    "Name": "Maximum Yellow",
+    "Hex (24 bit)": "#FAFA37"
+  },
+  {
+    "Name": "Maximum Yellow Red",
+    "Hex (24 bit)": "#F2BA49"
+  },
+  {
+    "Name": "May green",
+    "Hex (24 bit)": "#4C9141"
+  },
+  {
+    "Name": "Maya blue",
+    "Hex (24 bit)": "#73C2FB"
+  },
+  {
+    "Name": "Meat brown",
+    "Hex (24 bit)": "#E5B73B"
+  },
+  {
+    "Name": "Medium aquamarine",
+    "Hex (24 bit)": "#66DDAA"
+  },
+  {
+    "Name": "Medium blue",
+    "Hex (24 bit)": "#0000CD"
+  },
+  {
+    "Name": "Medium candy apple red",
+    "Hex (24 bit)": "#E2062C"
+  },
+  {
+    "Name": "Medium carmine",
+    "Hex (24 bit)": "#AF4035"
+  },
+  {
+    "Name": "Medium champagne",
+    "Hex (24 bit)": "#F3E5AB"
+  },
+  {
+    "Name": "Medium electric blue",
+    "Hex (24 bit)": "#035096"
+  },
+  {
+    "Name": "Medium jungle green",
+    "Hex (24 bit)": "#1C352D"
+  },
+  {
+    "Name": "Medium lavender magenta",
+    "Hex (24 bit)": "#DDA0DD"
+  },
+  {
+    "Name": "Medium orchid",
+    "Hex (24 bit)": "#BA55D3"
+  },
+  {
+    "Name": "Medium Persian blue",
+    "Hex (24 bit)": "#0067A5"
+  },
+  {
+    "Name": "Medium purple",
+    "Hex (24 bit)": "#9370DB"
+  },
+  {
+    "Name": "Medium red-violet",
+    "Hex (24 bit)": "#BB3385"
+  },
+  {
+    "Name": "Medium ruby",
+    "Hex (24 bit)": "#AA4069"
+  },
+  {
+    "Name": "Medium sea green",
+    "Hex (24 bit)": "#3CB371"
+  },
+  {
+    "Name": "Medium sky blue",
+    "Hex (24 bit)": "#80DAEB"
+  },
+  {
+    "Name": "Medium slate blue",
+    "Hex (24 bit)": "#7B68EE"
+  },
+  {
+    "Name": "Medium spring bud",
+    "Hex (24 bit)": "#C9DC87"
+  },
+  {
+    "Name": "Medium spring green",
+    "Hex (24 bit)": "#00FA9A"
+  },
+  {
+    "Name": "Medium taupe",
+    "Hex (24 bit)": "#674C47"
+  },
+  {
+    "Name": "Medium turquoise",
+    "Hex (24 bit)": "#48D1CC"
+  },
+  {
+    "Name": "Medium Tuscan red",
+    "Hex (24 bit)": "#79443B"
+  },
+  {
+    "Name": "Medium vermilion",
+    "Hex (24 bit)": "#D9603B"
+  },
+  {
+    "Name": "Medium violet-red",
+    "Hex (24 bit)": "#C71585"
+  },
+  {
+    "Name": "Mellow apricot",
+    "Hex (24 bit)": "#F8B878"
+  },
+  {
+    "Name": "Mellow yellow",
+    "Hex (24 bit)": "#F8DE7E"
+  },
+  {
+    "Name": "Melon",
+    "Hex (24 bit)": "#FDBCB4"
+  },
+  {
+    "Name": "Metallic Seaweed",
+    "Hex (24 bit)": "#0A7E8C"
+  },
+  {
+    "Name": "Metallic Sunburst",
+    "Hex (24 bit)": "#9C7C38"
+  },
+  {
+    "Name": "Mexican pink",
+    "Hex (24 bit)": "#E4007C"
+  },
+  {
+    "Name": "Middle Blue",
+    "Hex (24 bit)": "#7ED4E6"
+  },
+  {
+    "Name": "Middle Blue Green",
+    "Hex (24 bit)": "#8DD9CC"
+  },
+  {
+    "Name": "Middle Blue Purple",
+    "Hex (24 bit)": "#8B72BE"
+  },
+  {
+    "Name": "Middle Red Purple",
+    "Hex (24 bit)": "#210837"
+  },
+  {
+    "Name": "Middle Green",
+    "Hex (24 bit)": "#4D8C57"
+  },
+  {
+    "Name": "Middle Green Yellow",
+    "Hex (24 bit)": "#ACBF60"
+  },
+  {
+    "Name": "Middle Purple",
+    "Hex (24 bit)": "#D982B5"
+  },
+  {
+    "Name": "Middle Red",
+    "Hex (24 bit)": "#E58E73"
+  },
+  {
+    "Name": "Middle Red Purple",
+    "Hex (24 bit)": "#A55353"
+  },
+  {
+    "Name": "Middle Yellow",
+    "Hex (24 bit)": "#FFEB00"
+  },
+  {
+    "Name": "Middle Yellow Red",
+    "Hex (24 bit)": "#ECB176"
+  },
+  {
+    "Name": "Midnight",
+    "Hex (24 bit)": "#702670"
+  },
+  {
+    "Name": "Midnight blue",
+    "Hex (24 bit)": "#191970"
+  },
+  {
+    "Name": "Midnight green (eagle green)",
+    "Hex (24 bit)": "#004953"
+  },
+  {
+    "Name": "Mikado yellow",
+    "Hex (24 bit)": "#FFC40C"
+  },
+  {
+    "Name": "Milk",
+    "Hex (24 bit)": "#FDFFF5"
+  },
+  {
+    "Name": "Mimi Pink",
+    "Hex (24 bit)": "#FFDAE9"
+  },
+  {
+    "Name": "Mindaro",
+    "Hex (24 bit)": "#E3F988"
+  },
+  {
+    "Name": "Ming",
+    "Hex (24 bit)": "#36747D"
+  },
+  {
+    "Name": "Minion Yellow",
+    "Hex (24 bit)": "#F5E050"
+  },
+  {
+    "Name": "Mint",
+    "Hex (24 bit)": "#3EB489"
+  },
+  {
+    "Name": "Mint cream",
+    "Hex (24 bit)": "#F5FFFA"
+  },
+  {
+    "Name": "Mint green",
+    "Hex (24 bit)": "#98FF98"
+  },
+  {
+    "Name": "Misty Moss",
+    "Hex (24 bit)": "#BBB477"
+  },
+  {
+    "Name": "Misty rose",
+    "Hex (24 bit)": "#FFE4E1"
+  },
+  {
+    "Name": "Moccasin",
+    "Hex (24 bit)": "#FAEBD7"
+  },
+  {
+    "Name": "Mode beige",
+    "Hex (24 bit)": "#967117"
+  },
+  {
+    "Name": "Moonstone blue",
+    "Hex (24 bit)": "#73A9C2"
+  },
+  {
+    "Name": "Mordant red 19",
+    "Hex (24 bit)": "#AE0C00"
+  },
+  {
+    "Name": "Moss green",
+    "Hex (24 bit)": "#8A9A5B"
+  },
+  {
+    "Name": "Mountain Meadow",
+    "Hex (24 bit)": "#30BA8F"
+  },
+  {
+    "Name": "Mountbatten pink",
+    "Hex (24 bit)": "#997A8D"
+  },
+  {
+    "Name": "MSU Green",
+    "Hex (24 bit)": "#18453B"
+  },
+  {
+    "Name": "Mughal green",
+    "Hex (24 bit)": "#306030"
+  },
+  {
+    "Name": "Mulberry",
+    "Hex (24 bit)": "#C54B8C"
+  },
+  {
+    "Name": "Mummy's Tomb",
+    "Hex (24 bit)": "#828E84"
+  },
+  {
+    "Name": "Mustard",
+    "Hex (24 bit)": "#FFDB58"
+  },
+  {
+    "Name": "Myrtle green",
+    "Hex (24 bit)": "#317873"
+  },
+  {
+    "Name": "Mystic",
+    "Hex (24 bit)": "#D65282"
+  },
+  {
+    "Name": "Mystic Maroon",
+    "Hex (24 bit)": "#AD4379"
+  },
+  {
+    "Name": "Nadeshiko pink",
+    "Hex (24 bit)": "#F6ADC6"
+  },
+  {
+    "Name": "Napier green",
+    "Hex (24 bit)": "#2A8000"
+  },
+  {
+    "Name": "Naples yellow",
+    "Hex (24 bit)": "#FADA5E"
+  },
+  {
+    "Name": "Navajo white",
+    "Hex (24 bit)": "#FFDEAD"
+  },
+  {
+    "Name": "Navy",
+    "Hex (24 bit)": "#000080"
+  },
+  {
+    "Name": "Navy purple",
+    "Hex (24 bit)": "#9457EB"
+  },
+  {
+    "Name": "Neon Carrot",
+    "Hex (24 bit)": "#FFA343"
+  },
+  {
+    "Name": "Neon fuchsia",
+    "Hex (24 bit)": "#FE4164"
+  },
+  {
+    "Name": "Neon green",
+    "Hex (24 bit)": "#39FF14"
+  },
+  {
+    "Name": "New Car",
+    "Hex (24 bit)": "#214FC6"
+  },
+  {
+    "Name": "New York pink",
+    "Hex (24 bit)": "#D7837F"
+  },
+  {
+    "Name": "Nickel",
+    "Hex (24 bit)": "#727472"
+  },
+  {
+    "Name": "Non-photo blue",
+    "Hex (24 bit)": "#A4DDED"
+  },
+  {
+    "Name": "North Texas Green",
+    "Hex (24 bit)": "#059033"
+  },
+  {
+    "Name": "Nyanza",
+    "Hex (24 bit)": "#E9FFDB"
+  },
+  {
+    "Name": "Ocean Blue",
+    "Hex (24 bit)": "#4F42B5"
+  },
+  {
+    "Name": "Ocean Boat Blue",
+    "Hex (24 bit)": "#0077BE"
+  },
+  {
+    "Name": "Ocean Green",
+    "Hex (24 bit)": "#48BF91"
+  },
+  {
+    "Name": "Ochre",
+    "Hex (24 bit)": "#CC7722"
+  },
+  {
+    "Name": "Office green",
+    "Hex (24 bit)": "#008000"
+  },
+  {
+    "Name": "Ogre Odor",
+    "Hex (24 bit)": "#FD5240"
+  },
+  {
+    "Name": "Old burgundy",
+    "Hex (24 bit)": "#43302E"
+  },
+  {
+    "Name": "Old gold",
+    "Hex (24 bit)": "#CFB53B"
+  },
+  {
+    "Name": "Old heliotrope",
+    "Hex (24 bit)": "#563C5C"
+  },
+  {
+    "Name": "Old lace",
+    "Hex (24 bit)": "#FDF5E6"
+  },
+  {
+    "Name": "Old lavender",
+    "Hex (24 bit)": "#796878"
+  },
+  {
+    "Name": "Old mauve",
+    "Hex (24 bit)": "#673147"
+  },
+  {
+    "Name": "Old moss green",
+    "Hex (24 bit)": "#867E36"
+  },
+  {
+    "Name": "Old rose",
+    "Hex (24 bit)": "#C08081"
+  },
+  {
+    "Name": "Old silver",
+    "Hex (24 bit)": "#848482"
+  },
+  {
+    "Name": "Olive",
+    "Hex (24 bit)": "#808000"
+  },
+  {
+    "Name": "Olive Drab (#3)",
+    "Hex (24 bit)": "#6B8E23"
+  },
+  {
+    "Name": "Olive Drab #7",
+    "Hex (24 bit)": "#3C341F"
+  },
+  {
+    "Name": "Olivine",
+    "Hex (24 bit)": "#9AB973"
+  },
+  {
+    "Name": "Onyx",
+    "Hex (24 bit)": "#353839"
+  },
+  {
+    "Name": "Opera mauve",
+    "Hex (24 bit)": "#B784A7"
+  },
+  {
+    "Name": "Orange (color wheel)",
+    "Hex (24 bit)": "#FF7F00"
+  },
+  {
+    "Name": "Orange (Crayola)",
+    "Hex (24 bit)": "#FF7538"
+  },
+  {
+    "Name": "Orange (Pantone)",
+    "Hex (24 bit)": "#FF5800"
+  },
+  {
+    "Name": "Orange (RYB)",
+    "Hex (24 bit)": "#FB9902"
+  },
+  {
+    "Name": "Orange (web)",
+    "Hex (24 bit)": "#FFA500"
+  },
+  {
+    "Name": "Orange peel",
+    "Hex (24 bit)": "#FF9F00"
+  },
+  {
+    "Name": "Orange-red",
+    "Hex (24 bit)": "#FF4500"
+  },
+  {
+    "Name": "Orange Soda",
+    "Hex (24 bit)": "#FA5B3D"
+  },
+  {
+    "Name": "Orange-yellow",
+    "Hex (24 bit)": "#F8D568"
+  },
+  {
+    "Name": "Orchid",
+    "Hex (24 bit)": "#DA70D6"
+  },
+  {
+    "Name": "Orchid pink",
+    "Hex (24 bit)": "#F2BDCD"
+  },
+  {
+    "Name": "Orioles orange",
+    "Hex (24 bit)": "#FB4F14"
+  },
+  {
+    "Name": "Otter brown",
+    "Hex (24 bit)": "#654321"
+  },
+  {
+    "Name": "Outer Space",
+    "Hex (24 bit)": "#414A4C"
+  },
+  {
+    "Name": "Outrageous Orange",
+    "Hex (24 bit)": "#FF6E4A"
+  },
+  {
+    "Name": "Oxford Blue",
+    "Hex (24 bit)": "#002147"
+  },
+  {
+    "Name": "OU Crimson Red",
+    "Hex (24 bit)": "#990000"
+  },
+  {
+    "Name": "Pacific Blue",
+    "Hex (24 bit)": "#1CA9C9"
+  },
+  {
+    "Name": "Pakistan green",
+    "Hex (24 bit)": "#006600"
+  },
+  {
+    "Name": "Palatinate blue",
+    "Hex (24 bit)": "#273BE2"
+  },
+  {
+    "Name": "Palatinate purple",
+    "Hex (24 bit)": "#682860"
+  },
+  {
+    "Name": "Pale aqua",
+    "Hex (24 bit)": "#BCD4E6"
+  },
+  {
+    "Name": "Pale blue",
+    "Hex (24 bit)": "#AFEEEE"
+  },
+  {
+    "Name": "Pale brown",
+    "Hex (24 bit)": "#987654"
+  },
+  {
+    "Name": "Pale carmine",
+    "Hex (24 bit)": "#AF4035"
+  },
+  {
+    "Name": "Pale cerulean",
+    "Hex (24 bit)": "#9BC4E2"
+  },
+  {
+    "Name": "Pale chestnut",
+    "Hex (24 bit)": "#DDADAF"
+  },
+  {
+    "Name": "Pale copper",
+    "Hex (24 bit)": "#DA8A67"
+  },
+  {
+    "Name": "Pale cornflower blue",
+    "Hex (24 bit)": "#ABCDEF"
+  },
+  {
+    "Name": "Pale cyan",
+    "Hex (24 bit)": "#87D3F8"
+  },
+  {
+    "Name": "Pale gold",
+    "Hex (24 bit)": "#E6BE8A"
+  },
+  {
+    "Name": "Pale goldenrod",
+    "Hex (24 bit)": "#EEE8AA"
+  },
+  {
+    "Name": "Pale green",
+    "Hex (24 bit)": "#98FB98"
+  },
+  {
+    "Name": "Pale lavender",
+    "Hex (24 bit)": "#DCD0FF"
+  },
+  {
+    "Name": "Pale magenta",
+    "Hex (24 bit)": "#F984E5"
+  },
+  {
+    "Name": "Pale magenta-pink",
+    "Hex (24 bit)": "#FF99CC"
+  },
+  {
+    "Name": "Pale pink",
+    "Hex (24 bit)": "#FADADD"
+  },
+  {
+    "Name": "Pale plum",
+    "Hex (24 bit)": "#DDA0DD"
+  },
+  {
+    "Name": "Pale red-violet",
+    "Hex (24 bit)": "#DB7093"
+  },
+  {
+    "Name": "Pale robin egg blue",
+    "Hex (24 bit)": "#96DED1"
+  },
+  {
+    "Name": "Pale silver",
+    "Hex (24 bit)": "#C9C0BB"
+  },
+  {
+    "Name": "Pale spring bud",
+    "Hex (24 bit)": "#ECEBBD"
+  },
+  {
+    "Name": "Pale taupe",
+    "Hex (24 bit)": "#BC987E"
+  },
+  {
+    "Name": "Pale turquoise",
+    "Hex (24 bit)": "#AFEEEE"
+  },
+  {
+    "Name": "Pale violet",
+    "Hex (24 bit)": "#CC99FF"
+  },
+  {
+    "Name": "Pale violet-red",
+    "Hex (24 bit)": "#DB7093"
+  },
+  {
+    "Name": "Palm Leaf",
+    "Hex (24 bit)": "#6F9940"
+  },
+  {
+    "Name": "Pansy purple",
+    "Hex (24 bit)": "#78184A"
+  },
+  {
+    "Name": "Paolo Veronese green",
+    "Hex (24 bit)": "#009B7D"
+  },
+  {
+    "Name": "Papaya whip",
+    "Hex (24 bit)": "#FFEFD5"
+  },
+  {
+    "Name": "Paradise pink",
+    "Hex (24 bit)": "#E63E62"
+  },
+  {
+    "Name": "Paris Green",
+    "Hex (24 bit)": "#50C878"
+  },
+  {
+    "Name": "Parrot Pink",
+    "Hex (24 bit)": "#D998A0"
+  },
+  {
+    "Name": "Pastel blue",
+    "Hex (24 bit)": "#AEC6CF"
+  },
+  {
+    "Name": "Pastel brown",
+    "Hex (24 bit)": "#836953"
+  },
+  {
+    "Name": "Pastel gray",
+    "Hex (24 bit)": "#CFCFC4"
+  },
+  {
+    "Name": "Pastel green",
+    "Hex (24 bit)": "#77DD77"
+  },
+  {
+    "Name": "Pastel magenta",
+    "Hex (24 bit)": "#F49AC2"
+  },
+  {
+    "Name": "Pastel orange",
+    "Hex (24 bit)": "#FFB347"
+  },
+  {
+    "Name": "Pastel pink",
+    "Hex (24 bit)": "#DEA5A4"
+  },
+  {
+    "Name": "Pastel purple",
+    "Hex (24 bit)": "#B39EB5"
+  },
+  {
+    "Name": "Pastel red",
+    "Hex (24 bit)": "#FF6961"
+  },
+  {
+    "Name": "Pastel violet",
+    "Hex (24 bit)": "#CB99C9"
+  },
+  {
+    "Name": "Pastel yellow",
+    "Hex (24 bit)": "#FDFD96"
+  },
+  {
+    "Name": "Patriarch",
+    "Hex (24 bit)": "#800080"
+  },
+  {
+    "Name": "Payne's grey",
+    "Hex (24 bit)": "#536878"
+  },
+  {
+    "Name": "Peach",
+    "Hex (24 bit)": "#FFE5B4"
+  },
+  {
+    "Name": "Peach",
+    "Hex (24 bit)": "#FFCBA4"
+  },
+  {
+    "Name": "Peach-orange",
+    "Hex (24 bit)": "#FFCC99"
+  },
+  {
+    "Name": "Peach puff",
+    "Hex (24 bit)": "#FFDAB9"
+  },
+  {
+    "Name": "Peach-yellow",
+    "Hex (24 bit)": "#FADFAD"
+  },
+  {
+    "Name": "Pear",
+    "Hex (24 bit)": "#D1E231"
+  },
+  {
+    "Name": "Pearl",
+    "Hex (24 bit)": "#EAE0C8"
+  },
+  {
+    "Name": "Pearl Aqua",
+    "Hex (24 bit)": "#88D8C0"
+  },
+  {
+    "Name": "Pearly purple",
+    "Hex (24 bit)": "#B768A2"
+  },
+  {
+    "Name": "Peridot",
+    "Hex (24 bit)": "#E6E200"
+  },
+  {
+    "Name": "Periwinkle",
+    "Hex (24 bit)": "#CCCCFF"
+  },
+  {
+    "Name": "Permanent Geranium Lake",
+    "Hex (24 bit)": "#E12C2C"
+  },
+  {
+    "Name": "Persian blue",
+    "Hex (24 bit)": "#1C39BB"
+  },
+  {
+    "Name": "Persian green",
+    "Hex (24 bit)": "#00A693"
+  },
+  {
+    "Name": "Persian indigo",
+    "Hex (24 bit)": "#32127A"
+  },
+  {
+    "Name": "Persian orange",
+    "Hex (24 bit)": "#D99058"
+  },
+  {
+    "Name": "Persian pink",
+    "Hex (24 bit)": "#F77FBE"
+  },
+  {
+    "Name": "Persian plum",
+    "Hex (24 bit)": "#701C1C"
+  },
+  {
+    "Name": "Persian red",
+    "Hex (24 bit)": "#CC3333"
+  },
+  {
+    "Name": "Persian rose",
+    "Hex (24 bit)": "#FE28A2"
+  },
+  {
+    "Name": "Persimmon",
+    "Hex (24 bit)": "#EC5800"
+  },
+  {
+    "Name": "Peru",
+    "Hex (24 bit)": "#CD853F"
+  },
+  {
+    "Name": "Pewter Blue",
+    "Hex (24 bit)": "#8BA8B7"
+  },
+  {
+    "Name": "Phlox",
+    "Hex (24 bit)": "#DF00FF"
+  },
+  {
+    "Name": "Phthalo blue",
+    "Hex (24 bit)": "#000F89"
+  },
+  {
+    "Name": "Phthalo green",
+    "Hex (24 bit)": "#123524"
+  },
+  {
+    "Name": "Picton blue",
+    "Hex (24 bit)": "#45B1E8"
+  },
+  {
+    "Name": "Pictorial carmine",
+    "Hex (24 bit)": "#C30B4E"
+  },
+  {
+    "Name": "Piggy pink",
+    "Hex (24 bit)": "#FDDDE6"
+  },
+  {
+    "Name": "Pine green",
+    "Hex (24 bit)": "#01796F"
+  },
+  {
+    "Name": "Pineapple",
+    "Hex (24 bit)": "#563C5C"
+  },
+  {
+    "Name": "Pink",
+    "Hex (24 bit)": "#FFC0CB"
+  },
+  {
+    "Name": "Pink (Pantone)",
+    "Hex (24 bit)": "#D74894"
+  },
+  {
+    "Name": "Pink Flamingo",
+    "Hex (24 bit)": "#FC74FD"
+  },
+  {
+    "Name": "Pink lace",
+    "Hex (24 bit)": "#FFDDF4"
+  },
+  {
+    "Name": "Pink lavender",
+    "Hex (24 bit)": "#D8B2D1"
+  },
+  {
+    "Name": "Pink-orange",
+    "Hex (24 bit)": "#FF9966"
+  },
+  {
+    "Name": "Pink pearl",
+    "Hex (24 bit)": "#E7ACCF"
+  },
+  {
+    "Name": "Pink raspberry",
+    "Hex (24 bit)": "#980036"
+  },
+  {
+    "Name": "Pink Sherbet",
+    "Hex (24 bit)": "#F78FA7"
+  },
+  {
+    "Name": "Pistachio",
+    "Hex (24 bit)": "#93C572"
+  },
+  {
+    "Name": "Pixie Powder",
+    "Hex (24 bit)": "#391285"
+  },
+  {
+    "Name": "Platinum",
+    "Hex (24 bit)": "#E5E4E2"
+  },
+  {
+    "Name": "Plum",
+    "Hex (24 bit)": "#8E4585"
+  },
+  {
+    "Name": "Plum (web)",
+    "Hex (24 bit)": "#DDA0DD"
+  },
+  {
+    "Name": "Plump Purple",
+    "Hex (24 bit)": "#5946B2"
+  },
+  {
+    "Name": "Polished Pine",
+    "Hex (24 bit)": "#5DA493"
+  },
+  {
+    "Name": "Pomp and Power",
+    "Hex (24 bit)": "#86608E"
+  },
+  {
+    "Name": "Popstar",
+    "Hex (24 bit)": "#BE4F62"
+  },
+  {
+    "Name": "Portland Orange",
+    "Hex (24 bit)": "#FF5A36"
+  },
+  {
+    "Name": "Powder blue",
+    "Hex (24 bit)": "#B0E0E6"
+  },
+  {
+    "Name": "Princess Perfume",
+    "Hex (24 bit)": "#FF85CF"
+  },
+  {
+    "Name": "Princeton orange",
+    "Hex (24 bit)": "#F58025"
+  },
+  {
+    "Name": "Prune",
+    "Hex (24 bit)": "#701C1C"
+  },
+  {
+    "Name": "Prussian blue",
+    "Hex (24 bit)": "#003153"
+  },
+  {
+    "Name": "Psychedelic purple",
+    "Hex (24 bit)": "#DF00FF"
+  },
+  {
+    "Name": "Puce",
+    "Hex (24 bit)": "#CC8899"
+  },
+  {
+    "Name": "Puce red",
+    "Hex (24 bit)": "#722F37"
+  },
+  {
+    "Name": "Pullman Brown (UPS Brown)",
+    "Hex (24 bit)": "#644117"
+  },
+  {
+    "Name": "Pullman Green",
+    "Hex (24 bit)": "#3B331C"
+  },
+  {
+    "Name": "Pumpkin",
+    "Hex (24 bit)": "#FF7518"
+  },
+  {
+    "Name": "Purple (HTML)",
+    "Hex (24 bit)": "#800080"
+  },
+  {
+    "Name": "Purple (Munsell)",
+    "Hex (24 bit)": "#9F00C5"
+  },
+  {
+    "Name": "Purple (X11)",
+    "Hex (24 bit)": "#A020F0"
+  },
+  {
+    "Name": "Purple Heart",
+    "Hex (24 bit)": "#69359C"
+  },
+  {
+    "Name": "Purple mountain majesty",
+    "Hex (24 bit)": "#9678B6"
+  },
+  {
+    "Name": "Purple navy",
+    "Hex (24 bit)": "#4E5180"
+  },
+  {
+    "Name": "Purple pizzazz",
+    "Hex (24 bit)": "#FE4EDA"
+  },
+  {
+    "Name": "Purple Plum",
+    "Hex (24 bit)": "#9C51B6"
+  },
+  {
+    "Name": "Purple taupe",
+    "Hex (24 bit)": "#50404D"
+  },
+  {
+    "Name": "Purpureus",
+    "Hex (24 bit)": "#9A4EAE"
+  },
+  {
+    "Name": "Quartz",
+    "Hex (24 bit)": "#51484F"
+  },
+  {
+    "Name": "Queen blue",
+    "Hex (24 bit)": "#436B95"
+  },
+  {
+    "Name": "Queen pink",
+    "Hex (24 bit)": "#E8CCD7"
+  },
+  {
+    "Name": "Quick Silver",
+    "Hex (24 bit)": "#A6A6A6"
+  },
+  {
+    "Name": "Quinacridone magenta",
+    "Hex (24 bit)": "#8E3A59"
+  },
+  {
+    "Name": "Rackley",
+    "Hex (24 bit)": "#5D8AA8"
+  },
+  {
+    "Name": "Radical Red",
+    "Hex (24 bit)": "#FF355E"
+  },
+  {
+    "Name": "Raisin black",
+    "Hex (24 bit)": "#242124"
+  },
+  {
+    "Name": "Rajah",
+    "Hex (24 bit)": "#FBAB60"
+  },
+  {
+    "Name": "Raspberry",
+    "Hex (24 bit)": "#E30B5D"
+  },
+  {
+    "Name": "Raspberry glace",
+    "Hex (24 bit)": "#915F6D"
+  },
+  {
+    "Name": "Raspberry pink",
+    "Hex (24 bit)": "#E25098"
+  },
+  {
+    "Name": "Raspberry rose",
+    "Hex (24 bit)": "#B3446C"
+  },
+  {
+    "Name": "Raw Sienna",
+    "Hex (24 bit)": "#D68A59"
+  },
+  {
+    "Name": "Raw umber",
+    "Hex (24 bit)": "#826644"
+  },
+  {
+    "Name": "Razzle dazzle rose",
+    "Hex (24 bit)": "#FF33CC"
+  },
+  {
+    "Name": "Razzmatazz",
+    "Hex (24 bit)": "#E3256B"
+  },
+  {
+    "Name": "Razzmic Berry",
+    "Hex (24 bit)": "#8D4E85"
+  },
+  {
+    "Name": "Rebecca Purple",
+    "Hex (24 bit)": "#663399"
+  },
+  {
+    "Name": "Red",
+    "Hex (24 bit)": "#FF0000"
+  },
+  {
+    "Name": "Red (Crayola)",
+    "Hex (24 bit)": "#EE204D"
+  },
+  {
+    "Name": "Red (Munsell)",
+    "Hex (24 bit)": "#F2003C"
+  },
+  {
+    "Name": "Red (NCS)",
+    "Hex (24 bit)": "#C40233"
+  },
+  {
+    "Name": "Red (Pantone)",
+    "Hex (24 bit)": "#ED2939"
+  },
+  {
+    "Name": "Red (pigment)",
+    "Hex (24 bit)": "#ED1C24"
+  },
+  {
+    "Name": "Red (RYB)",
+    "Hex (24 bit)": "#FE2712"
+  },
+  {
+    "Name": "Red-brown",
+    "Hex (24 bit)": "#A52A2A"
+  },
+  {
+    "Name": "Red devil",
+    "Hex (24 bit)": "#860111"
+  },
+  {
+    "Name": "Red-orange",
+    "Hex (24 bit)": "#FF5349"
+  },
+  {
+    "Name": "Red-purple",
+    "Hex (24 bit)": "#E40078"
+  },
+  {
+    "Name": "Red Salsa",
+    "Hex (24 bit)": "#FD3A4A"
+  },
+  {
+    "Name": "Red-violet",
+    "Hex (24 bit)": "#C71585"
+  },
+  {
+    "Name": "Redwood",
+    "Hex (24 bit)": "#A45A52"
+  },
+  {
+    "Name": "Regalia",
+    "Hex (24 bit)": "#522D80"
+  },
+  {
+    "Name": "Registration black",
+    "Hex (24 bit)": "#000000"
+  },
+  {
+    "Name": "Resolution blue",
+    "Hex (24 bit)": "#002387"
+  },
+  {
+    "Name": "Rhythm",
+    "Hex (24 bit)": "#777696"
+  },
+  {
+    "Name": "Rich black",
+    "Hex (24 bit)": "#004040"
+  },
+  {
+    "Name": "Rich black (FOGRA29)",
+    "Hex (24 bit)": "#010B13"
+  },
+  {
+    "Name": "Rich black (FOGRA39)",
+    "Hex (24 bit)": "#010203"
+  },
+  {
+    "Name": "Rich brilliant lavender",
+    "Hex (24 bit)": "#F1A7FE"
+  },
+  {
+    "Name": "Rich carmine",
+    "Hex (24 bit)": "#D70040"
+  },
+  {
+    "Name": "Rich electric blue",
+    "Hex (24 bit)": "#0892D0"
+  },
+  {
+    "Name": "Rich lavender",
+    "Hex (24 bit)": "#A76BCF"
+  },
+  {
+    "Name": "Rich lilac",
+    "Hex (24 bit)": "#B666D2"
+  },
+  {
+    "Name": "Rich maroon",
+    "Hex (24 bit)": "#B03060"
+  },
+  {
+    "Name": "Rifle green",
+    "Hex (24 bit)": "#444C38"
+  },
+  {
+    "Name": "Roast coffee",
+    "Hex (24 bit)": "#704241"
+  },
+  {
+    "Name": "Robin egg blue",
+    "Hex (24 bit)": "#00CCCC"
+  },
+  {
+    "Name": "Rocket metallic",
+    "Hex (24 bit)": "#8A7F80"
+  },
+  {
+    "Name": "Roman silver",
+    "Hex (24 bit)": "#838996"
+  },
+  {
+    "Name": "Rose",
+    "Hex (24 bit)": "#FF007F"
+  },
+  {
+    "Name": "Rose bonbon",
+    "Hex (24 bit)": "#F9429E"
+  },
+  {
+    "Name": "Rose Dust",
+    "Hex (24 bit)": "#9E5E6F"
+  },
+  {
+    "Name": "Rose ebony",
+    "Hex (24 bit)": "#674846"
+  },
+  {
+    "Name": "Rose gold",
+    "Hex (24 bit)": "#B76E79"
+  },
+  {
+    "Name": "Rose madder",
+    "Hex (24 bit)": "#E32636"
+  },
+  {
+    "Name": "Rose pink",
+    "Hex (24 bit)": "#FF66CC"
+  },
+  {
+    "Name": "Rose quartz",
+    "Hex (24 bit)": "#AA98A9"
+  },
+  {
+    "Name": "Rose red",
+    "Hex (24 bit)": "#C21E56"
+  },
+  {
+    "Name": "Rose taupe",
+    "Hex (24 bit)": "#905D5D"
+  },
+  {
+    "Name": "Rose vale",
+    "Hex (24 bit)": "#AB4E52"
+  },
+  {
+    "Name": "Rosewood",
+    "Hex (24 bit)": "#65000B"
+  },
+  {
+    "Name": "Rosso corsa",
+    "Hex (24 bit)": "#D40000"
+  },
+  {
+    "Name": "Rosy brown",
+    "Hex (24 bit)": "#BC8F8F"
+  },
+  {
+    "Name": "Royal azure",
+    "Hex (24 bit)": "#0038A8"
+  },
+  {
+    "Name": "Royal blue",
+    "Hex (24 bit)": "#002366"
+  },
+  {
+    "Name": "Royal blue",
+    "Hex (24 bit)": "#4169E1"
+  },
+  {
+    "Name": "Royal fuchsia",
+    "Hex (24 bit)": "#CA2C92"
+  },
+  {
+    "Name": "Royal purple",
+    "Hex (24 bit)": "#7851A9"
+  },
+  {
+    "Name": "Royal yellow",
+    "Hex (24 bit)": "#FADA5E"
+  },
+  {
+    "Name": "Ruber",
+    "Hex (24 bit)": "#CE4676"
+  },
+  {
+    "Name": "Rubine red",
+    "Hex (24 bit)": "#D10056"
+  },
+  {
+    "Name": "Ruby",
+    "Hex (24 bit)": "#E0115F"
+  },
+  {
+    "Name": "Ruby red",
+    "Hex (24 bit)": "#9B111E"
+  },
+  {
+    "Name": "Ruddy",
+    "Hex (24 bit)": "#FF0028"
+  },
+  {
+    "Name": "Ruddy brown",
+    "Hex (24 bit)": "#BB6528"
+  },
+  {
+    "Name": "Ruddy pink",
+    "Hex (24 bit)": "#E18E96"
+  },
+  {
+    "Name": "Rufous",
+    "Hex (24 bit)": "#A81C07"
+  },
+  {
+    "Name": "Russet",
+    "Hex (24 bit)": "#80461B"
+  },
+  {
+    "Name": "Russian green",
+    "Hex (24 bit)": "#679267"
+  },
+  {
+    "Name": "Russian violet",
+    "Hex (24 bit)": "#32174D"
+  },
+  {
+    "Name": "Rust",
+    "Hex (24 bit)": "#B7410E"
+  },
+  {
+    "Name": "Rusty red",
+    "Hex (24 bit)": "#DA2C43"
+  },
+  {
+    "Name": "Sacramento State green",
+    "Hex (24 bit)": "#00563F"
+  },
+  {
+    "Name": "Saddle brown",
+    "Hex (24 bit)": "#8B4513"
+  },
+  {
+    "Name": "Safety orange",
+    "Hex (24 bit)": "#FF7800"
+  },
+  {
+    "Name": "Safety orange (blaze orange)",
+    "Hex (24 bit)": "#FF6700"
+  },
+  {
+    "Name": "Safety yellow",
+    "Hex (24 bit)": "#EED202"
+  },
+  {
+    "Name": "Saffron",
+    "Hex (24 bit)": "#F4C430"
+  },
+  {
+    "Name": "Sage",
+    "Hex (24 bit)": "#BCB88A"
+  },
+  {
+    "Name": "St. Patrick's blue",
+    "Hex (24 bit)": "#23297A"
+  },
+  {
+    "Name": "Salmon",
+    "Hex (24 bit)": "#FA8072"
+  },
+  {
+    "Name": "Salmon pink",
+    "Hex (24 bit)": "#FF91A4"
+  },
+  {
+    "Name": "Sand",
+    "Hex (24 bit)": "#C2B280"
+  },
+  {
+    "Name": "Sand dune",
+    "Hex (24 bit)": "#967117"
+  },
+  {
+    "Name": "Sandstorm",
+    "Hex (24 bit)": "#ECD540"
+  },
+  {
+    "Name": "Sandy brown",
+    "Hex (24 bit)": "#F4A460"
+  },
+  {
+    "Name": "Sandy Tan",
+    "Hex (24 bit)": "#FDD9B5"
+  },
+  {
+    "Name": "Sandy taupe",
+    "Hex (24 bit)": "#967117"
+  },
+  {
+    "Name": "Sangria",
+    "Hex (24 bit)": "#92000A"
+  },
+  {
+    "Name": "Sap green",
+    "Hex (24 bit)": "#507D2A"
+  },
+  {
+    "Name": "Sapphire",
+    "Hex (24 bit)": "#0F52BA"
+  },
+  {
+    "Name": "Sapphire blue",
+    "Hex (24 bit)": "#0067A5"
+  },
+  {
+    "Name": "Sasquatch Socks",
+    "Hex (24 bit)": "#FF4681"
+  },
+  {
+    "Name": "Satin sheen gold",
+    "Hex (24 bit)": "#CBA135"
+  },
+  {
+    "Name": "Scarlet",
+    "Hex (24 bit)": "#FF2400"
+  },
+  {
+    "Name": "Scarlet",
+    "Hex (24 bit)": "#FD0E35"
+  },
+  {
+    "Name": "Schauss pink",
+    "Hex (24 bit)": "#FF91AF"
+  },
+  {
+    "Name": "School bus yellow",
+    "Hex (24 bit)": "#FFD800"
+  },
+  {
+    "Name": "Screamin' Green",
+    "Hex (24 bit)": "#66FF66"
+  },
+  {
+    "Name": "Sea blue",
+    "Hex (24 bit)": "#006994"
+  },
+  {
+    "Name": "Sea Foam Green",
+    "Hex (24 bit)": "#9FE2BF"
+  },
+  {
+    "Name": "Sea green",
+    "Hex (24 bit)": "#2E8B57"
+  },
+  {
+    "Name": "Sea Serpent",
+    "Hex (24 bit)": "#4BC7CF"
+  },
+  {
+    "Name": "Seal brown",
+    "Hex (24 bit)": "#59260B"
+  },
+  {
+    "Name": "Seashell",
+    "Hex (24 bit)": "#FFF5EE"
+  },
+  {
+    "Name": "Selective yellow",
+    "Hex (24 bit)": "#FFBA00"
+  },
+  {
+    "Name": "Sepia",
+    "Hex (24 bit)": "#704214"
+  },
+  {
+    "Name": "Shadow",
+    "Hex (24 bit)": "#8A795D"
+  },
+  {
+    "Name": "Shadow blue",
+    "Hex (24 bit)": "#778BA5"
+  },
+  {
+    "Name": "Shampoo",
+    "Hex (24 bit)": "#FFCFF1"
+  },
+  {
+    "Name": "Shamrock green",
+    "Hex (24 bit)": "#009E60"
+  },
+  {
+    "Name": "Sheen Green",
+    "Hex (24 bit)": "#8FD400"
+  },
+  {
+    "Name": "Shimmering Blush",
+    "Hex (24 bit)": "#D98695"
+  },
+  {
+    "Name": "Shiny Shamrock",
+    "Hex (24 bit)": "#5FA778"
+  },
+  {
+    "Name": "Shocking pink",
+    "Hex (24 bit)": "#FC0FC0"
+  },
+  {
+    "Name": "Shocking pink (Crayola)",
+    "Hex (24 bit)": "#FF6FFF"
+  },
+  {
+    "Name": "Sienna",
+    "Hex (24 bit)": "#882D17"
+  },
+  {
+    "Name": "Silver",
+    "Hex (24 bit)": "#C0C0C0"
+  },
+  {
+    "Name": "Silver chalice",
+    "Hex (24 bit)": "#ACACAC"
+  },
+  {
+    "Name": "Silver Lake blue",
+    "Hex (24 bit)": "#5D89BA"
+  },
+  {
+    "Name": "Silver pink",
+    "Hex (24 bit)": "#C4AEAD"
+  },
+  {
+    "Name": "Silver sand",
+    "Hex (24 bit)": "#BFC1C2"
+  },
+  {
+    "Name": "Sinopia",
+    "Hex (24 bit)": "#CB410B"
+  },
+  {
+    "Name": "Sizzling Red",
+    "Hex (24 bit)": "#FF3855"
+  },
+  {
+    "Name": "Sizzling Sunrise",
+    "Hex (24 bit)": "#FFDB00"
+  },
+  {
+    "Name": "Skobeloff",
+    "Hex (24 bit)": "#007474"
+  },
+  {
+    "Name": "Sky blue",
+    "Hex (24 bit)": "#87CEEB"
+  },
+  {
+    "Name": "Sky magenta",
+    "Hex (24 bit)": "#CF71AF"
+  },
+  {
+    "Name": "Slate blue",
+    "Hex (24 bit)": "#6A5ACD"
+  },
+  {
+    "Name": "Slate gray",
+    "Hex (24 bit)": "#708090"
+  },
+  {
+    "Name": "Smalt (Dark powder blue)",
+    "Hex (24 bit)": "#003399"
+  },
+  {
+    "Name": "Slimy Green",
+    "Hex (24 bit)": "#299617"
+  },
+  {
+    "Name": "Smashed Pumpkin",
+    "Hex (24 bit)": "#FF6D3A"
+  },
+  {
+    "Name": "Smitten",
+    "Hex (24 bit)": "#C84186"
+  },
+  {
+    "Name": "Smoke",
+    "Hex (24 bit)": "#738276"
+  },
+  {
+    "Name": "Smokey Topaz",
+    "Hex (24 bit)": "#832A0D"
+  },
+  {
+    "Name": "Smoky black",
+    "Hex (24 bit)": "#100C08"
+  },
+  {
+    "Name": "Smoky Topaz",
+    "Hex (24 bit)": "#933D41"
+  },
+  {
+    "Name": "Snow",
+    "Hex (24 bit)": "#FFFAFA"
+  },
+  {
+    "Name": "Soap",
+    "Hex (24 bit)": "#CEC8EF"
+  },
+  {
+    "Name": "Solid pink",
+    "Hex (24 bit)": "#893843"
+  },
+  {
+    "Name": "Sonic silver",
+    "Hex (24 bit)": "#757575"
+  },
+  {
+    "Name": "Spartan Crimson",
+    "Hex (24 bit)": "#9E1316"
+  },
+  {
+    "Name": "Space cadet",
+    "Hex (24 bit)": "#1D2951"
+  },
+  {
+    "Name": "Spanish bistre",
+    "Hex (24 bit)": "#807532"
+  },
+  {
+    "Name": "Spanish blue",
+    "Hex (24 bit)": "#0070B8"
+  },
+  {
+    "Name": "Spanish carmine",
+    "Hex (24 bit)": "#D10047"
+  },
+  {
+    "Name": "Spanish crimson",
+    "Hex (24 bit)": "#E51A4C"
+  },
+  {
+    "Name": "Spanish gray",
+    "Hex (24 bit)": "#989898"
+  },
+  {
+    "Name": "Spanish green",
+    "Hex (24 bit)": "#009150"
+  },
+  {
+    "Name": "Spanish orange",
+    "Hex (24 bit)": "#E86100"
+  },
+  {
+    "Name": "Spanish pink",
+    "Hex (24 bit)": "#F7BFBE"
+  },
+  {
+    "Name": "Spanish red",
+    "Hex (24 bit)": "#E60026"
+  },
+  {
+    "Name": "Spanish sky blue",
+    "Hex (24 bit)": "#00FFFF"
+  },
+  {
+    "Name": "Spanish violet",
+    "Hex (24 bit)": "#4C2882"
+  },
+  {
+    "Name": "Spanish viridian",
+    "Hex (24 bit)": "#007F5C"
+  },
+  {
+    "Name": "Spicy mix",
+    "Hex (24 bit)": "#8B5f4D"
+  },
+  {
+    "Name": "Spiro Disco Ball",
+    "Hex (24 bit)": "#0FC0FC"
+  },
+  {
+    "Name": "Spring bud",
+    "Hex (24 bit)": "#A7FC00"
+  },
+  {
+    "Name": "Spring Frost",
+    "Hex (24 bit)": "#87FF2A"
+  },
+  {
+    "Name": "Spring green",
+    "Hex (24 bit)": "#00FF7F"
+  },
+  {
+    "Name": "Star command blue",
+    "Hex (24 bit)": "#007BB8"
+  },
+  {
+    "Name": "Steel blue",
+    "Hex (24 bit)": "#4682B4"
+  },
+  {
+    "Name": "Steel pink",
+    "Hex (24 bit)": "#CC33CC"
+  },
+  {
+    "Name": "Steel Teal",
+    "Hex (24 bit)": "#5F8A8B"
+  },
+  {
+    "Name": "Stil de grain yellow",
+    "Hex (24 bit)": "#FADA5E"
+  },
+  {
+    "Name": "Stizza",
+    "Hex (24 bit)": "#990000"
+  },
+  {
+    "Name": "Stormcloud",
+    "Hex (24 bit)": "#4F666A"
+  },
+  {
+    "Name": "Straw",
+    "Hex (24 bit)": "#E4D96F"
+  },
+  {
+    "Name": "Strawberry",
+    "Hex (24 bit)": "#FC5A8D"
+  },
+  {
+    "Name": "Sugar Plum",
+    "Hex (24 bit)": "#914E75"
+  },
+  {
+    "Name": "Sunburnt Cyclops",
+    "Hex (24 bit)": "#FF404C"
+  },
+  {
+    "Name": "Sunglow",
+    "Hex (24 bit)": "#FFCC33"
+  },
+  {
+    "Name": "Sunny",
+    "Hex (24 bit)": "#F2F27A"
+  },
+  {
+    "Name": "Sunray",
+    "Hex (24 bit)": "#E3AB57"
+  },
+  {
+    "Name": "Sunset",
+    "Hex (24 bit)": "#FAD6A5"
+  },
+  {
+    "Name": "Sunset orange",
+    "Hex (24 bit)": "#FD5E53"
+  },
+  {
+    "Name": "Super pink",
+    "Hex (24 bit)": "#CF6BA9"
+  },
+  {
+    "Name": "Sweet Brown",
+    "Hex (24 bit)": "#A83731"
+  },
+  {
+    "Name": "Tan",
+    "Hex (24 bit)": "#D2B48C"
+  },
+  {
+    "Name": "Tangelo",
+    "Hex (24 bit)": "#F94D00"
+  },
+  {
+    "Name": "Tangerine",
+    "Hex (24 bit)": "#F28500"
+  },
+  {
+    "Name": "Tangerine yellow",
+    "Hex (24 bit)": "#FFCC00"
+  },
+  {
+    "Name": "Tango pink",
+    "Hex (24 bit)": "#E4717A"
+  },
+  {
+    "Name": "Tart Orange",
+    "Hex (24 bit)": "#FB4D46"
+  },
+  {
+    "Name": "Taupe",
+    "Hex (24 bit)": "#483C32"
+  },
+  {
+    "Name": "Taupe gray",
+    "Hex (24 bit)": "#8B8589"
+  },
+  {
+    "Name": "Tea green",
+    "Hex (24 bit)": "#D0F0C0"
+  },
+  {
+    "Name": "Tea rose",
+    "Hex (24 bit)": "#F88379"
+  },
+  {
+    "Name": "Tea rose",
+    "Hex (24 bit)": "#F4C2C2"
+  },
+  {
+    "Name": "Teal",
+    "Hex (24 bit)": "#008080"
+  },
+  {
+    "Name": "Teal blue",
+    "Hex (24 bit)": "#367588"
+  },
+  {
+    "Name": "Teal deer",
+    "Hex (24 bit)": "#99E6B3"
+  },
+  {
+    "Name": "Teal green",
+    "Hex (24 bit)": "#00827F"
+  },
+  {
+    "Name": "Telemagenta",
+    "Hex (24 bit)": "#CF3476"
+  },
+  {
+    "Name": "Tenné (tawny)",
+    "Hex (24 bit)": "#CD5700"
+  },
+  {
+    "Name": "Terra cotta",
+    "Hex (24 bit)": "#E2725B"
+  },
+  {
+    "Name": "Thistle",
+    "Hex (24 bit)": "#D8BFD8"
+  },
+  {
+    "Name": "Thulian pink",
+    "Hex (24 bit)": "#DE6FA1"
+  },
+  {
+    "Name": "Tickle Me Pink",
+    "Hex (24 bit)": "#FC89AC"
+  },
+  {
+    "Name": "Tiffany Blue",
+    "Hex (24 bit)": "#0ABAB5"
+  },
+  {
+    "Name": "Tiger's eye",
+    "Hex (24 bit)": "#E08D3C"
+  },
+  {
+    "Name": "Timberwolf",
+    "Hex (24 bit)": "#DBD7D2"
+  },
+  {
+    "Name": "Titanium yellow",
+    "Hex (24 bit)": "#EEE600"
+  },
+  {
+    "Name": "Tomato",
+    "Hex (24 bit)": "#FF6347"
+  },
+  {
+    "Name": "Toolbox",
+    "Hex (24 bit)": "#746CC0"
+  },
+  {
+    "Name": "Topaz",
+    "Hex (24 bit)": "#FFC87C"
+  },
+  {
+    "Name": "Tractor red",
+    "Hex (24 bit)": "#FD0E35"
+  },
+  {
+    "Name": "Trolley Grey",
+    "Hex (24 bit)": "#808080"
+  },
+  {
+    "Name": "Tropical rain forest",
+    "Hex (24 bit)": "#00755E"
+  },
+  {
+    "Name": "Tropical violet",
+    "Hex (24 bit)": "#CDA4DE"
+  },
+  {
+    "Name": "True Blue",
+    "Hex (24 bit)": "#0073CF"
+  },
+  {
+    "Name": "Tufts Blue",
+    "Hex (24 bit)": "#3E8EDE"
+  },
+  {
+    "Name": "Tulip",
+    "Hex (24 bit)": "#FF878D"
+  },
+  {
+    "Name": "Tumbleweed",
+    "Hex (24 bit)": "#DEAA88"
+  },
+  {
+    "Name": "Turkish rose",
+    "Hex (24 bit)": "#B57281"
+  },
+  {
+    "Name": "Turquoise",
+    "Hex (24 bit)": "#40E0D0"
+  },
+  {
+    "Name": "Turquoise blue",
+    "Hex (24 bit)": "#00FFEF"
+  },
+  {
+    "Name": "Turquoise green",
+    "Hex (24 bit)": "#A0D6B4"
+  },
+  {
+    "Name": "Turquoise Surf",
+    "Hex (24 bit)": "#00C5CD"
+  },
+  {
+    "Name": "Turtle green",
+    "Hex (24 bit)": "#8A9A5B"
+  },
+  {
+    "Name": "Tuscan",
+    "Hex (24 bit)": "#FAD6A5"
+  },
+  {
+    "Name": "Tuscan brown",
+    "Hex (24 bit)": "#6F4E37"
+  },
+  {
+    "Name": "Tuscan red",
+    "Hex (24 bit)": "#7C4848"
+  },
+  {
+    "Name": "Tuscan tan",
+    "Hex (24 bit)": "#A67B5B"
+  },
+  {
+    "Name": "Tuscany",
+    "Hex (24 bit)": "#C09999"
+  },
+  {
+    "Name": "Twilight lavender",
+    "Hex (24 bit)": "#8A496B"
+  },
+  {
+    "Name": "Tyrian purple",
+    "Hex (24 bit)": "#66023C"
+  },
+  {
+    "Name": "UA blue",
+    "Hex (24 bit)": "#0033AA"
+  },
+  {
+    "Name": "UA red",
+    "Hex (24 bit)": "#D9004C"
+  },
+  {
+    "Name": "Ube",
+    "Hex (24 bit)": "#8878C3"
+  },
+  {
+    "Name": "UCLA Blue",
+    "Hex (24 bit)": "#536895"
+  },
+  {
+    "Name": "UCLA Gold",
+    "Hex (24 bit)": "#FFB300"
+  },
+  {
+    "Name": "UFO Green",
+    "Hex (24 bit)": "#3CD070"
+  },
+  {
+    "Name": "Ultramarine",
+    "Hex (24 bit)": "#3F00FF"
+  },
+  {
+    "Name": "Ultramarine blue",
+    "Hex (24 bit)": "#4166F5"
+  },
+  {
+    "Name": "Ultra pink",
+    "Hex (24 bit)": "#FF6FFF"
+  },
+  {
+    "Name": "Ultra red",
+    "Hex (24 bit)": "#FC6C85"
+  },
+  {
+    "Name": "Umber",
+    "Hex (24 bit)": "#635147"
+  },
+  {
+    "Name": "Unbleached silk",
+    "Hex (24 bit)": "#FFDDCA"
+  },
+  {
+    "Name": "United Nations blue",
+    "Hex (24 bit)": "#5B92E5"
+  },
+  {
+    "Name": "University of California Gold",
+    "Hex (24 bit)": "#B78727"
+  },
+  {
+    "Name": "Unmellow yellow",
+    "Hex (24 bit)": "#FFFF66"
+  },
+  {
+    "Name": "UP Forest green",
+    "Hex (24 bit)": "#014421"
+  },
+  {
+    "Name": "UP Maroon",
+    "Hex (24 bit)": "#7B1113"
+  },
+  {
+    "Name": "Upsdell red",
+    "Hex (24 bit)": "#AE2029"
+  },
+  {
+    "Name": "Urobilin",
+    "Hex (24 bit)": "#E1AD21"
+  },
+  {
+    "Name": "USAFA blue",
+    "Hex (24 bit)": "#004F98"
+  },
+  {
+    "Name": "USC Cardinal",
+    "Hex (24 bit)": "#990000"
+  },
+  {
+    "Name": "USC Gold",
+    "Hex (24 bit)": "#FFCC00"
+  },
+  {
+    "Name": "University of Tennessee Orange",
+    "Hex (24 bit)": "#F77F00"
+  },
+  {
+    "Name": "Utah Crimson",
+    "Hex (24 bit)": "#D3003F"
+  },
+  {
+    "Name": "Van Dyke Brown",
+    "Hex (24 bit)": "#664228"
+  },
+  {
+    "Name": "Vanilla",
+    "Hex (24 bit)": "#F3E5AB"
+  },
+  {
+    "Name": "Vanilla ice",
+    "Hex (24 bit)": "#F38FA9"
+  },
+  {
+    "Name": "Vegas gold",
+    "Hex (24 bit)": "#C5B358"
+  },
+  {
+    "Name": "Venetian red",
+    "Hex (24 bit)": "#C80815"
+  },
+  {
+    "Name": "Verdigris",
+    "Hex (24 bit)": "#43B3AE"
+  },
+  {
+    "Name": "Vermilion",
+    "Hex (24 bit)": "#E34234"
+  },
+  {
+    "Name": "Vermilion",
+    "Hex (24 bit)": "#D9381E"
+  },
+  {
+    "Name": "Veronica",
+    "Hex (24 bit)": "#A020F0"
+  },
+  {
+    "Name": "Very light azure",
+    "Hex (24 bit)": "#74BBFB"
+  },
+  {
+    "Name": "Very light blue",
+    "Hex (24 bit)": "#6666FF"
+  },
+  {
+    "Name": "Very light malachite green",
+    "Hex (24 bit)": "#64E986"
+  },
+  {
+    "Name": "Very light tangelo",
+    "Hex (24 bit)": "#FFB077"
+  },
+  {
+    "Name": "Very pale orange",
+    "Hex (24 bit)": "#FFDFBF"
+  },
+  {
+    "Name": "Very pale yellow",
+    "Hex (24 bit)": "#FFFFBF"
+  },
+  {
+    "Name": "Violet",
+    "Hex (24 bit)": "#8F00FF"
+  },
+  {
+    "Name": "Violet (color wheel)",
+    "Hex (24 bit)": "#7F00FF"
+  },
+  {
+    "Name": "Violet (RYB)",
+    "Hex (24 bit)": "#8601AF"
+  },
+  {
+    "Name": "Violet (web)",
+    "Hex (24 bit)": "#EE82EE"
+  },
+  {
+    "Name": "Violet-blue",
+    "Hex (24 bit)": "#324AB2"
+  },
+  {
+    "Name": "Violet-red",
+    "Hex (24 bit)": "#F75394"
+  },
+  {
+    "Name": "Viridian",
+    "Hex (24 bit)": "#40826D"
+  },
+  {
+    "Name": "Viridian green",
+    "Hex (24 bit)": "#009698"
+  },
+  {
+    "Name": "Vista blue",
+    "Hex (24 bit)": "#7C9ED9"
+  },
+  {
+    "Name": "Vivid amber",
+    "Hex (24 bit)": "#CC9900"
+  },
+  {
+    "Name": "Vivid auburn",
+    "Hex (24 bit)": "#922724"
+  },
+  {
+    "Name": "Vivid burgundy",
+    "Hex (24 bit)": "#9F1D35"
+  },
+  {
+    "Name": "Vivid cerise",
+    "Hex (24 bit)": "#DA1D81"
+  },
+  {
+    "Name": "Vivid cerulean",
+    "Hex (24 bit)": "#00AAEE"
+  },
+  {
+    "Name": "Vivid crimson",
+    "Hex (24 bit)": "#CC0033"
+  },
+  {
+    "Name": "Vivid gamboge",
+    "Hex (24 bit)": "#FF9900"
+  },
+  {
+    "Name": "Vivid lime green",
+    "Hex (24 bit)": "#A6D608"
+  },
+  {
+    "Name": "Vivid malachite",
+    "Hex (24 bit)": "#00CC33"
+  },
+  {
+    "Name": "Vivid mulberry",
+    "Hex (24 bit)": "#B80CE3"
+  },
+  {
+    "Name": "Vivid orange",
+    "Hex (24 bit)": "#FF5F00"
+  },
+  {
+    "Name": "Vivid orange peel",
+    "Hex (24 bit)": "#FFA000"
+  },
+  {
+    "Name": "Vivid orchid",
+    "Hex (24 bit)": "#CC00FF"
+  },
+  {
+    "Name": "Vivid raspberry",
+    "Hex (24 bit)": "#FF006C"
+  },
+  {
+    "Name": "Vivid red",
+    "Hex (24 bit)": "#F70D1A"
+  },
+  {
+    "Name": "Vivid red-tangelo",
+    "Hex (24 bit)": "#DF6124"
+  },
+  {
+    "Name": "Vivid sky blue",
+    "Hex (24 bit)": "#00CCFF"
+  },
+  {
+    "Name": "Vivid tangelo",
+    "Hex (24 bit)": "#F07427"
+  },
+  {
+    "Name": "Vivid tangerine",
+    "Hex (24 bit)": "#FFA089"
+  },
+  {
+    "Name": "Vivid vermilion",
+    "Hex (24 bit)": "#E56024"
+  },
+  {
+    "Name": "Vivid violet",
+    "Hex (24 bit)": "#9F00FF"
+  },
+  {
+    "Name": "Vivid yellow",
+    "Hex (24 bit)": "#FFE302"
+  },
+  {
+    "Name": "Volt",
+    "Hex (24 bit)": "#CEFF00"
+  },
+  {
+    "Name": "Wageningen Green",
+    "Hex (24 bit)": "#34B233"
+  },
+  {
+    "Name": "Warm black",
+    "Hex (24 bit)": "#004242"
+  },
+  {
+    "Name": "Waterspout",
+    "Hex (24 bit)": "#A4F4F9"
+  },
+  {
+    "Name": "Weldon Blue",
+    "Hex (24 bit)": "#7C98AB"
+  },
+  {
+    "Name": "Wenge",
+    "Hex (24 bit)": "#645452"
+  },
+  {
+    "Name": "Wheat",
+    "Hex (24 bit)": "#F5DEB3"
+  },
+  {
+    "Name": "White",
+    "Hex (24 bit)": "#FFFFFF"
+  },
+  {
+    "Name": "White smoke",
+    "Hex (24 bit)": "#F5F5F5"
+  },
+  {
+    "Name": "Wild blue yonder",
+    "Hex (24 bit)": "#A2ADD0"
+  },
+  {
+    "Name": "Wild orchid",
+    "Hex (24 bit)": "#D470A2"
+  },
+  {
+    "Name": "Wild Strawberry",
+    "Hex (24 bit)": "#FF43A4"
+  },
+  {
+    "Name": "Wild watermelon",
+    "Hex (24 bit)": "#FC6C85"
+  },
+  {
+    "Name": "Willpower orange",
+    "Hex (24 bit)": "#FD5800"
+  },
+  {
+    "Name": "Windsor tan",
+    "Hex (24 bit)": "#A75502"
+  },
+  {
+    "Name": "Wine",
+    "Hex (24 bit)": "#722F37"
+  },
+  {
+    "Name": "Wine dregs",
+    "Hex (24 bit)": "#673147"
+  },
+  {
+    "Name": "Winter Sky",
+    "Hex (24 bit)": "#FF007C"
+  },
+  {
+    "Name": "Winter Wizard",
+    "Hex (24 bit)": "#A0E6FF"
+  },
+  {
+    "Name": "Wintergreen Dream",
+    "Hex (24 bit)": "#56887D"
+  },
+  {
+    "Name": "Wisteria",
+    "Hex (24 bit)": "#C9A0DC"
+  },
+  {
+    "Name": "Wood brown",
+    "Hex (24 bit)": "#C19A6B"
+  },
+  {
+    "Name": "Xanadu",
+    "Hex (24 bit)": "#738678"
+  },
+  {
+    "Name": "Yale Blue",
+    "Hex (24 bit)": "#0F4D92"
+  },
+  {
+    "Name": "Yankees blue",
+    "Hex (24 bit)": "#1C2841"
+  },
+  {
+    "Name": "Yellow",
+    "Hex (24 bit)": "#FFFF00"
+  },
+  {
+    "Name": "Yellow (Crayola)",
+    "Hex (24 bit)": "#FCE883"
+  },
+  {
+    "Name": "Yellow (Munsell)",
+    "Hex (24 bit)": "#EFCC00"
+  },
+  {
+    "Name": "Yellow (NCS)",
+    "Hex (24 bit)": "#FFD300"
+  },
+  {
+    "Name": "Yellow (Pantone)",
+    "Hex (24 bit)": "#FEDF00"
+  },
+  {
+    "Name": "Yellow (process)",
+    "Hex (24 bit)": "#FFEF00"
+  },
+  {
+    "Name": "Yellow (RYB)",
+    "Hex (24 bit)": "#FEFE33"
+  },
+  {
+    "Name": "Yellow-green",
+    "Hex (24 bit)": "#9ACD32"
+  },
+  {
+    "Name": "Yellow Orange",
+    "Hex (24 bit)": "#FFAE42"
+  },
+  {
+    "Name": "Yellow rose",
+    "Hex (24 bit)": "#FFF000"
+  },
+  {
+    "Name": "Yellow Sunshine",
+    "Hex (24 bit)": "#FFF700"
+  },
+  {
+    "Name": "Zaffre",
+    "Hex (24 bit)": "#0014A8"
+  },
+  {
+    "Name": "Zinnwaldite brown",
+    "Hex (24 bit)": "#2C1608"
+  },
+  {
+    "Name": "Zomp",
+    "Hex (24 bit)": "#39A78E"
+  }
+]
